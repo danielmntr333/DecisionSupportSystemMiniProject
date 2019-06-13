@@ -1,0 +1,4251 @@
+Crop,Temperature,Rainfall,Humidity
+Gram,33,37,68
+Groundnut,35,50,67
+Mustard,33,36,66
+Sorghum,33,53,71
+Green gram,34,74,74
+Mustard,35,40,68
+Maize,34,69,73
+Sunflower,35,37,66
+Soybean,35,62,74
+Cotton,33,54,75
+Black Gram,35,48,68
+Rap seed,34,37,72
+Gram,32,42,67
+Rap seed,33,35,75
+Sunflower,34,95,70
+Green gram,33,70,65
+Sunflower,34,73,70
+Rap seed,35,43,74
+Gram,34,38,72
+Barley,32,46,72
+Soybean,32,71,67
+Maize,34,69,74
+Black Gram,33,56,74
+Groundnut,35,54,68
+Sorghum,34,44,70
+Cotton,35,59,66
+Field Pea,34,57,69
+Soybean,32,69,65
+Mustard,34,39,73
+Sorghum,34,51,72
+Cotton,32,54,67
+Rap seed,34,36,75
+SugarCane,35,274,73
+Barley,33,37,65
+SugarCane,34,282,74
+Wheat,35,90,67
+Gram,32,35,72
+Sorghum,33,50,75
+Gram,32,40,68
+Millet,35,28,75
+Wheat,35,67,74
+Mustard,35,38,75
+Gram,35,44,75
+Mustard,32,40,67
+Soybean,32,66,69
+Green gram,32,71,66
+Barley,32,50,74
+Wheat,32,80,70
+Barley,33,42,71
+Sunflower,33,131,66
+Sunflower,35,59,73
+Groundnut,34,93,66
+Millet,32,35,66
+Sunflower,32,126,72
+Rice,33,122,68
+Groundnut,33,67,74
+Black Gram,35,60,70
+Gram,34,41,73
+Cotton,34,67,70
+Soybean,33,75,71
+Soybean,34,64,69
+Gram,34,45,69
+Sunflower,34,146,73
+Millet,35,35,69
+Gram,33,43,75
+Rap seed,35,36,65
+Soybean,34,68,70
+Gram,34,35,71
+Barley,35,36,68
+Mustard,34,36,75
+Soybean,35,72,68
+Sorghum,32,58,66
+Black Gram,34,46,70
+Rap seed,35,42,68
+Groundnut,32,96,67
+Black Gram,32,48,67
+Green gram,35,63,72
+Millet,35,29,69
+Barley,34,36,69
+Maize,34,76,66
+Groundnut,33,97,69
+Sunflower,34,136,70
+Cotton,35,52,67
+Rice,32,144,68
+Field Pea,33,55,73
+Gram,32,43,66
+Sunflower,33,74,70
+Millet,32,27,67
+Sunflower,32,134,67
+Groundnut,34,60,66
+Maize,32,62,67
+Sorghum,33,43,72
+SugarCane,35,281,66
+Green gram,35,70,70
+Maize,34,61,73
+Rice,35,130,66
+Gram,33,40,72
+Mustard,34,44,70
+Rap seed,33,39,74
+Millet,33,35,68
+Field Pea,32,49,70
+SugarCane,33,291,74
+Groundnut,32,84,68
+Groundnut,33,88,74
+Soybean,35,64,66
+Millet,33,26,74
+SugarCane,33,275,74
+Barley,34,48,69
+Sunflower,35,89,66
+Millet,35,34,71
+Soybean,34,60,73
+Barley,35,36,75
+Groundnut,32,79,73
+Millet,34,35,68
+Mustard,34,42,69
+Groundnut,32,71,74
+Green gram,34,77,73
+Mustard,34,45,67
+Barley,32,46,68
+Rice,33,125,67
+Field Pea,33,40,74
+Barley,33,46,66
+Barley,35,41,73
+Field Pea,32,43,68
+Millet,34,33,74
+Field Pea,33,51,74
+Rap seed,33,41,71
+Wheat,34,73,68
+Green gram,32,76,74
+Field Pea,35,60,74
+Maize,35,79,72
+SugarCane,34,295,72
+Field Pea,35,49,74
+Groundnut,35,100,66
+Wheat,33,69,69
+Black Gram,32,53,70
+Field Pea,33,49,73
+Rap seed,35,35,75
+Mustard,32,43,67
+Soybean,35,71,75
+Maize,35,51,70
+Wheat,35,89,74
+Wheat,35,81,68
+Wheat,34,67,69
+Mustard,33,45,75
+SugarCane,33,251,68
+Sorghum,35,42,74
+Green gram,32,73,65
+Green gram,34,68,70
+Sunflower,33,82,71
+Sorghum,34,57,66
+Cotton,34,66,75
+Green gram,34,60,70
+Millet,32,29,74
+Maize,34,62,72
+SugarCane,32,297,70
+Green gram,32,66,68
+Groundnut,32,75,72
+Mustard,35,40,69
+Soybean,32,75,73
+Gram,32,37,65
+Millet,34,27,74
+Sorghum,33,52,66
+Maize,35,58,67
+Maize,35,71,75
+Green gram,34,63,68
+Mustard,32,45,66
+Rap seed,33,44,68
+Maize,34,61,74
+Mustard,32,38,73
+Millet,33,25,65
+Soybean,34,66,65
+Millet,34,35,67
+Barley,33,35,66
+Field Pea,33,52,68
+Sunflower,34,92,66
+Field Pea,32,42,72
+Rap seed,33,43,69
+Millet,33,33,66
+Wheat,33,69,75
+Millet,33,29,74
+SugarCane,32,280,71
+Gram,34,44,71
+Wheat,33,77,72
+Rice,32,141,65
+Millet,35,27,75
+Millet,35,26,68
+Barley,33,39,74
+Millet,33,26,70
+Groundnut,34,91,69
+Millet,33,25,66
+Green gram,34,67,72
+Gram,34,41,66
+Field Pea,33,60,75
+Soybean,34,74,66
+SugarCane,32,285,70
+Groundnut,34,74,69
+Wheat,34,79,69
+Rap seed,33,37,66
+Mustard,34,40,71
+Green gram,32,79,72
+Groundnut,35,93,71
+Maize,35,59,68
+Groundnut,33,88,74
+Cotton,32,69,65
+Rice,32,144,67
+Sunflower,33,136,74
+Maize,32,63,72
+SugarCane,33,283,69
+SugarCane,33,296,65
+Barley,33,44,68
+Cotton,35,56,71
+SugarCane,35,300,75
+Soybean,33,65,72
+Rap seed,34,44,69
+Field Pea,32,50,74
+Mustard,35,36,70
+Wheat,34,70,65
+Barley,35,46,73
+Wheat,35,81,72
+Millet,35,26,70
+Sunflower,33,103,75
+Rap seed,33,44,74
+Maize,33,79,67
+Mustard,33,37,72
+Maize,32,72,72
+Soybean,35,66,72
+Green gram,32,78,68
+Sunflower,34,131,65
+Sorghum,35,49,70
+Rice,35,112,71
+Green gram,34,66,72
+Maize,35,74,65
+Wheat,32,86,69
+Soybean,35,70,68
+Sorghum,33,40,72
+Green gram,35,73,75
+Rap seed,35,45,72
+Gram,33,35,74
+SugarCane,32,272,72
+Mustard,33,45,69
+Black Gram,32,52,67
+Maize,32,57,67
+Barley,34,39,70
+Rice,33,136,72
+SugarCane,34,277,75
+Sorghum,34,46,71
+Barley,33,48,74
+Green gram,35,63,75
+Cotton,32,51,75
+Green gram,35,79,66
+Millet,32,29,72
+Wheat,33,61,65
+Groundnut,34,91,74
+Cotton,32,60,68
+Rice,35,120,70
+Field Pea,33,60,73
+Rice,34,117,75
+Mustard,35,39,66
+Cotton,33,56,68
+Groundnut,32,99,70
+Wheat,32,86,68
+Gram,34,36,73
+Rice,34,108,70
+Groundnut,35,91,66
+Groundnut,33,85,65
+Field Pea,33,42,73
+Sunflower,35,128,74
+SugarCane,34,264,68
+Soybean,33,61,65
+Barley,34,39,67
+Barley,32,35,72
+SugarCane,33,280,70
+Green gram,32,71,75
+Cotton,33,55,73
+Rap seed,33,40,71
+Soybean,33,75,74
+Gram,33,45,66
+Green gram,32,71,67
+Green gram,32,70,70
+Green gram,32,74,68
+Black Gram,33,48,73
+Rap seed,33,35,70
+Mustard,34,35,74
+Groundnut,33,82,66
+Groundnut,33,94,73
+Green gram,33,80,69
+Maize,32,71,73
+Soybean,32,60,72
+Soybean,34,67,73
+Field Pea,35,45,71
+Sorghum,33,54,74
+Maize,33,74,74
+Field Pea,32,43,65
+Mustard,33,39,65
+Barley,35,44,70
+SugarCane,33,298,66
+Barley,35,49,74
+Sunflower,33,131,69
+Rap seed,33,35,66
+Groundnut,35,79,70
+Field Pea,33,51,69
+Green gram,34,76,72
+Mustard,33,43,71
+Millet,35,28,71
+Cotton,34,65,75
+Black Gram,35,51,75
+Rap seed,33,44,67
+Rap seed,34,39,69
+Millet,33,33,74
+Cotton,35,70,74
+Wheat,32,63,73
+Gram,32,37,72
+Maize,35,73,69
+Barley,35,44,71
+Wheat,34,77,74
+Black Gram,32,45,67
+Gram,33,42,73
+Soybean,34,75,68
+Barley,33,41,67
+Black Gram,33,58,70
+Wheat,34,85,68
+Barley,34,41,70
+Millet,35,25,73
+Groundnut,32,69,67
+Gram,32,35,67
+Sunflower,34,123,69
+Rap seed,32,40,68
+Rap seed,35,45,70
+SugarCane,35,297,70
+Black Gram,33,45,75
+Black Gram,34,56,73
+Field Pea,34,43,66
+Black Gram,32,48,73
+Groundnut,35,68,73
+Sunflower,34,122,65
+Sunflower,35,59,69
+Gram,33,37,72
+Field Pea,33,46,72
+Sunflower,34,55,71
+Rap seed,32,45,68
+Field Pea,35,56,71
+Groundnut,35,88,68
+Sunflower,35,131,67
+Rap seed,35,44,67
+Maize,35,66,71
+Maize,34,72,73
+SugarCane,33,287,67
+Soybean,34,73,68
+Black Gram,33,45,74
+Rap seed,35,39,74
+Sunflower,32,147,70
+Soybean,33,64,68
+Maize,35,59,66
+Field Pea,35,48,70
+Cotton,33,70,69
+Maize,35,77,69
+Barley,34,38,72
+Barley,35,40,67
+Rap seed,33,39,72
+Gram,32,44,67
+Millet,35,34,69
+Green gram,35,77,69
+Field Pea,33,54,71
+Barley,35,48,74
+Barley,34,41,75
+Soybean,33,64,69
+Groundnut,35,75,74
+Rap seed,35,43,74
+SugarCane,32,294,65
+Groundnut,34,56,70
+Sunflower,33,66,65
+Cotton,33,70,68
+Field Pea,34,51,72
+Green gram,35,60,74
+Mustard,33,41,73
+Groundnut,34,66,73
+Groundnut,33,71,69
+Black Gram,35,59,74
+Gram,35,42,71
+Sunflower,32,99,66
+Cotton,35,61,68
+Maize,33,66,74
+Barley,34,43,74
+Mustard,33,42,74
+Green gram,32,63,65
+Rice,33,150,69
+Sunflower,35,139,66
+Mustard,34,35,66
+Gram,33,44,73
+Wheat,33,85,74
+Black Gram,34,45,75
+Groundnut,35,90,71
+Cotton,35,58,71
+Maize,35,63,70
+Wheat,33,71,72
+Soybean,35,61,72
+Field Pea,34,46,68
+Rap seed,35,41,66
+Rice,34,147,67
+Sorghum,32,58,68
+Millet,32,26,74
+Wheat,35,70,68
+Soybean,34,65,74
+Barley,33,39,65
+Rice,32,131,71
+Black Gram,34,40,67
+SugarCane,35,286,74
+Maize,33,74,73
+Rice,35,107,68
+Maize,34,50,70
+Green gram,33,60,70
+Groundnut,35,100,67
+SugarCane,33,253,71
+Rice,35,119,67
+Sunflower,32,73,73
+Groundnut,32,81,67
+Sorghum,32,42,70
+Rice,34,143,69
+Cotton,35,58,68
+Green gram,33,67,72
+Wheat,32,77,68
+Green gram,33,80,68
+Rice,34,126,66
+SugarCane,34,298,70
+Black Gram,34,43,71
+Mustard,32,37,67
+Black Gram,34,43,66
+Millet,35,27,70
+SugarCane,35,265,68
+Soybean,35,74,67
+Cotton,33,63,74
+Green gram,33,71,75
+Barley,32,45,68
+Sunflower,32,110,73
+Groundnut,35,100,68
+Gram,35,36,73
+Mustard,33,43,67
+Soybean,33,72,73
+Soybean,35,67,66
+Black Gram,33,56,75
+Barley,35,46,67
+SugarCane,32,299,72
+Green gram,32,72,67
+Wheat,34,80,66
+Maize,32,79,65
+Mustard,35,42,68
+Maize,33,64,74
+Soybean,34,62,75
+SugarCane,35,296,73
+SugarCane,34,265,66
+Black Gram,33,50,66
+Sorghum,33,46,73
+Gram,33,42,75
+Rice,34,110,70
+Sunflower,32,77,70
+SugarCane,33,258,68
+Field Pea,35,47,73
+Cotton,32,57,72
+Wheat,33,61,71
+Field Pea,33,57,69
+Maize,34,78,68
+Cotton,33,70,71
+Barley,32,45,70
+Barley,34,42,67
+Mustard,32,35,70
+Sorghum,34,44,70
+Maize,33,72,69
+Wheat,32,66,75
+Rice,33,103,66
+Wheat,33,85,66
+Green gram,33,63,71
+Maize,34,75,75
+Cotton,33,62,73
+Groundnut,35,82,75
+Maize,32,63,65
+Rice,35,135,71
+Wheat,34,80,70
+Rap seed,33,35,74
+Black Gram,34,59,68
+SugarCane,33,258,73
+Field Pea,34,56,75
+Wheat,35,83,66
+Cotton,35,61,69
+Soybean,34,62,70
+Rice,34,103,65
+Cotton,34,54,70
+Maize,33,61,75
+Barley,35,39,66
+Cotton,34,57,68
+Mustard,34,43,73
+Black Gram,33,59,67
+Wheat,32,82,72
+Field Pea,33,47,72
+Soybean,33,66,66
+Black Gram,32,53,65
+SugarCane,33,287,74
+Black Gram,35,49,70
+Maize,35,79,67
+Gram,34,43,66
+Sorghum,34,41,67
+Barley,33,37,66
+Rap seed,34,43,66
+Wheat,35,60,67
+Groundnut,34,95,74
+Sorghum,32,40,69
+Millet,35,33,70
+Green gram,34,76,69
+Cotton,35,65,66
+Groundnut,32,64,66
+Mustard,33,37,74
+Rap seed,34,45,65
+Rap seed,32,38,67
+Groundnut,35,54,73
+Groundnut,34,97,70
+Maize,33,73,75
+SugarCane,33,258,68
+Wheat,33,69,67
+Black Gram,35,56,68
+Field Pea,34,50,70
+Rice,33,124,72
+Maize,33,69,74
+Barley,33,47,71
+Black Gram,33,53,66
+Groundnut,34,75,66
+Black Gram,35,55,69
+Millet,33,26,66
+Wheat,32,78,70
+Barley,35,37,67
+Sunflower,35,104,67
+Soybean,34,67,68
+SugarCane,32,289,70
+Rap seed,34,45,70
+Green gram,35,74,68
+SugarCane,32,300,68
+Gram,32,45,70
+Gram,35,38,66
+Gram,32,36,67
+Mustard,35,45,66
+Field Pea,32,56,66
+Millet,35,34,71
+Groundnut,35,68,75
+Cotton,35,53,66
+Groundnut,32,80,75
+Gram,35,44,75
+Maize,35,78,73
+Groundnut,34,81,73
+Black Gram,32,43,65
+Cotton,35,65,66
+Soybean,32,70,67
+Rice,32,144,73
+Sunflower,35,78,71
+Rap seed,34,43,71
+Rap seed,35,36,68
+Field Pea,35,55,69
+Black Gram,35,50,66
+Gram,35,45,66
+Green gram,32,70,70
+Black Gram,34,40,70
+Barley,35,42,68
+Wheat,33,78,74
+SugarCane,32,260,67
+Groundnut,32,91,69
+Black Gram,35,43,73
+Barley,35,35,66
+Rap seed,35,44,66
+Wheat,33,86,74
+Sorghum,32,49,69
+Groundnut,34,73,71
+Mustard,32,40,69
+Rap seed,35,36,73
+Soybean,34,72,74
+Maize,34,66,67
+Green gram,34,70,65
+Rap seed,34,41,74
+Black Gram,34,60,75
+Field Pea,32,48,67
+Groundnut,33,74,67
+Mustard,33,42,71
+Gram,35,42,74
+Black Gram,34,56,74
+Sunflower,33,57,73
+Soybean,34,73,68
+Groundnut,32,60,72
+Sunflower,35,87,69
+Millet,32,32,70
+Sunflower,34,136,74
+Soybean,34,67,71
+Sunflower,32,111,74
+Wheat,34,74,73
+Millet,33,33,65
+Millet,32,32,65
+Green gram,35,77,66
+Black Gram,35,40,71
+Rice,33,109,66
+Sunflower,35,71,72
+Field Pea,35,58,67
+Gram,32,39,73
+SugarCane,34,272,69
+Mustard,34,44,66
+Rice,35,110,71
+Maize,34,69,68
+Groundnut,32,98,65
+Field Pea,34,44,70
+Wheat,35,70,66
+Mustard,34,36,72
+Gram,33,35,69
+Maize,35,78,68
+Rap seed,35,40,72
+Gram,34,45,67
+Mustard,33,35,71
+Soybean,35,68,73
+SugarCane,33,293,67
+Sunflower,33,148,68
+SugarCane,35,290,75
+Rap seed,32,38,66
+Field Pea,32,43,69
+Cotton,34,53,75
+Soybean,35,72,67
+Barley,35,41,72
+Barley,32,50,73
+SugarCane,34,256,69
+Black Gram,35,54,70
+SugarCane,35,278,70
+Sorghum,35,40,66
+Cotton,35,69,66
+Black Gram,34,40,67
+Black Gram,32,51,69
+Cotton,33,55,66
+Rap seed,35,42,73
+Millet,35,25,74
+Wheat,33,66,75
+SugarCane,32,258,66
+Field Pea,35,41,72
+Green gram,32,74,73
+Mustard,35,39,70
+Groundnut,34,66,72
+Green gram,35,69,75
+Sunflower,35,129,70
+Gram,34,41,73
+Maize,32,69,71
+Wheat,33,87,75
+Mustard,35,42,72
+Groundnut,33,68,71
+Sunflower,33,91,68
+Barley,32,39,70
+Barley,32,43,69
+Sorghum,34,57,66
+Field Pea,32,42,67
+Millet,34,27,69
+Cotton,35,61,70
+Sorghum,35,40,66
+Mustard,32,36,75
+Black Gram,35,53,67
+Barley,33,39,69
+Rap seed,32,35,69
+SugarCane,33,275,66
+Millet,34,27,66
+Maize,33,80,74
+Rice,34,137,75
+SugarCane,34,253,74
+Black Gram,33,58,73
+Green gram,35,77,65
+Mustard,32,41,68
+Mustard,35,42,66
+SugarCane,34,291,65
+Sorghum,34,46,68
+Soybean,33,71,67
+Rice,35,111,70
+Cotton,35,55,71
+Mustard,32,44,72
+Rap seed,35,40,67
+Black Gram,33,47,66
+Millet,33,31,71
+Barley,34,38,68
+Cotton,32,70,69
+Maize,35,74,66
+Maize,32,74,74
+Black Gram,34,55,75
+Wheat,33,88,72
+Maize,33,64,66
+Rap seed,32,43,70
+SugarCane,32,274,68
+Rice,35,143,75
+Mustard,35,44,71
+Green gram,35,74,67
+Sunflower,34,62,69
+Soybean,32,64,72
+Sorghum,32,43,67
+Barley,34,45,72
+Rap seed,35,37,71
+Wheat,33,62,74
+Black Gram,32,54,71
+Soybean,33,67,72
+Sorghum,35,55,74
+Groundnut,32,51,68
+Mustard,32,39,67
+Mustard,35,37,73
+Barley,33,50,66
+Green gram,34,60,74
+Mustard,32,43,70
+Gram,35,39,70
+Rap seed,32,35,69
+Soybean,35,68,67
+Sorghum,32,55,69
+Green gram,35,69,73
+Mustard,35,35,71
+Wheat,34,71,66
+Wheat,35,69,74
+Field Pea,34,48,68
+Green gram,34,62,68
+Gram,32,44,65
+Gram,35,45,67
+Sunflower,32,107,68
+Rice,34,130,70
+Groundnut,32,90,68
+Rap seed,33,45,65
+Rap seed,34,44,74
+Field Pea,32,53,72
+Rice,32,103,66
+Millet,34,26,69
+Mustard,35,38,74
+SugarCane,33,262,67
+Wheat,33,66,66
+Soybean,33,70,71
+Sorghum,32,56,72
+Rice,32,102,65
+Groundnut,35,95,71
+Maize,33,51,75
+Soybean,35,60,72
+Wheat,32,82,73
+Black Gram,33,50,67
+Wheat,35,67,70
+Groundnut,35,73,68
+Sorghum,35,40,75
+Green gram,33,67,68
+Wheat,34,79,67
+Groundnut,34,85,68
+Black Gram,34,52,69
+Rice,32,130,69
+Sorghum,33,60,73
+Sorghum,35,46,66
+Groundnut,34,75,68
+Black Gram,34,46,65
+Wheat,32,81,68
+Sunflower,35,105,70
+Sunflower,33,150,71
+Wheat,34,65,68
+Groundnut,35,79,69
+Cotton,32,65,65
+Sorghum,35,58,68
+Soybean,32,72,72
+Field Pea,34,51,70
+SugarCane,33,276,74
+SugarCane,33,297,69
+Rap seed,34,40,70
+Cotton,32,53,67
+Cotton,34,59,65
+Soybean,34,63,72
+Field Pea,32,50,68
+Rice,33,107,71
+Millet,34,30,72
+Cotton,32,57,67
+Maize,32,51,73
+Mustard,33,38,72
+Millet,35,32,69
+Sunflower,32,134,69
+Wheat,33,86,66
+Black Gram,34,40,66
+Black Gram,32,50,74
+Maize,35,55,70
+Millet,34,30,75
+Rap seed,32,43,67
+Soybean,32,64,75
+Sorghum,33,58,73
+Cotton,34,69,74
+Soybean,35,66,69
+Green gram,35,74,70
+Millet,34,27,70
+Groundnut,33,93,73
+Sorghum,35,57,71
+Sunflower,35,91,71
+Sorghum,35,51,73
+Rap seed,34,35,71
+Field Pea,35,49,67
+Rap seed,33,41,68
+Millet,35,27,75
+Millet,32,32,74
+Barley,33,45,71
+Soybean,32,72,68
+Groundnut,33,53,71
+Wheat,34,85,72
+Groundnut,32,72,74
+Sorghum,32,54,65
+Sorghum,35,56,67
+Black Gram,34,48,73
+Cotton,34,54,74
+Millet,35,34,67
+Soybean,33,65,75
+Gram,32,36,72
+Gram,32,42,68
+Soybean,32,65,65
+Wheat,33,79,71
+Green gram,35,76,71
+Maize,33,80,65
+Rice,35,105,67
+Wheat,32,74,67
+Soybean,35,74,69
+Rice,32,107,71
+Barley,35,48,73
+Gram,34,42,69
+Gram,35,39,75
+Black Gram,33,60,68
+Black Gram,34,41,68
+Sorghum,35,54,66
+Mustard,34,42,68
+Wheat,35,71,73
+Millet,34,25,75
+Gram,35,38,74
+Maize,32,66,69
+Black Gram,32,57,68
+Sorghum,34,43,67
+Groundnut,35,64,73
+Wheat,33,60,67
+Mustard,33,39,74
+Millet,35,29,68
+Cotton,33,55,67
+Black Gram,34,42,66
+Sorghum,32,48,65
+Green gram,33,64,73
+Field Pea,33,55,66
+Sorghum,33,49,65
+Mustard,35,36,69
+Green gram,35,66,69
+Groundnut,35,52,71
+Sorghum,33,50,67
+Rice,35,107,75
+Barley,34,48,75
+Cotton,32,66,68
+Maize,35,67,74
+Wheat,35,89,70
+Rice,33,100,73
+Cotton,33,65,69
+Field Pea,33,45,66
+Black Gram,35,54,71
+Green gram,32,70,71
+Black Gram,32,46,65
+Sorghum,34,59,75
+SugarCane,32,293,72
+Black Gram,32,50,65
+Green gram,34,74,66
+Sorghum,35,49,68
+Mustard,32,45,74
+Soybean,33,60,73
+Maize,33,50,71
+Sorghum,34,44,69
+Rap seed,32,44,65
+Black Gram,32,45,69
+Groundnut,33,83,66
+Sorghum,33,40,67
+Soybean,34,66,72
+Groundnut,32,75,72
+Sunflower,33,114,74
+Rap seed,35,44,74
+Gram,35,37,74
+Wheat,32,90,67
+Mustard,33,39,71
+Sorghum,34,55,72
+SugarCane,33,298,66
+Wheat,35,60,68
+Black Gram,32,52,70
+Sunflower,33,87,67
+Rice,35,104,66
+Wheat,32,73,67
+Soybean,32,72,69
+Millet,33,33,66
+Green gram,32,65,72
+Soybean,33,60,66
+Maize,34,63,72
+Soybean,34,64,71
+Cotton,35,68,66
+Millet,33,35,66
+Gram,33,35,66
+Millet,33,34,71
+Maize,32,71,74
+Soybean,34,65,74
+Groundnut,35,96,72
+Field Pea,32,47,65
+Black Gram,32,45,66
+Wheat,35,71,68
+Wheat,32,65,71
+Soybean,34,67,75
+SugarCane,32,298,68
+Maize,35,74,70
+Gram,34,36,67
+Rice,32,110,67
+Soybean,32,68,72
+Field Pea,34,41,66
+Cotton,35,52,67
+Rap seed,34,39,68
+Green gram,32,63,65
+Black Gram,32,59,65
+Black Gram,33,40,75
+Sunflower,33,143,73
+Cotton,34,57,69
+Green gram,33,66,65
+Field Pea,34,46,73
+Wheat,33,89,72
+Millet,32,32,72
+Mustard,33,38,75
+Millet,32,28,65
+Millet,34,34,75
+Barley,32,37,67
+Barley,34,46,73
+Maize,33,77,66
+Mustard,35,36,75
+Millet,34,33,70
+Barley,34,41,74
+Wheat,32,77,74
+Rap seed,34,38,65
+Rap seed,33,39,73
+Groundnut,34,90,75
+Mustard,33,42,69
+Barley,33,48,68
+Millet,33,32,72
+Groundnut,34,99,66
+Rap seed,34,42,67
+SugarCane,35,272,73
+SugarCane,32,250,74
+Maize,34,74,74
+Millet,33,33,69
+Rap seed,32,44,74
+Wheat,33,74,73
+Maize,33,72,66
+Soybean,33,67,66
+Maize,34,51,66
+Mustard,35,39,71
+Wheat,35,88,66
+Black Gram,35,50,72
+Field Pea,33,48,74
+Sorghum,32,58,67
+Sunflower,33,150,66
+Sorghum,35,46,68
+Black Gram,32,45,75
+Rice,35,118,73
+Sorghum,33,44,74
+Wheat,34,76,70
+Cotton,33,59,69
+Sorghum,33,42,68
+Wheat,35,68,75
+Gram,35,42,73
+Sunflower,33,33,72
+Black Gram,33,58,71
+Cotton,34,52,72
+Black Gram,35,49,73
+Wheat,32,78,72
+Sunflower,34,40,75
+Soybean,33,74,72
+Rap seed,32,45,65
+Millet,32,34,66
+Groundnut,32,100,75
+Rice,35,142,69
+Cotton,33,54,74
+Gram,32,41,65
+Field Pea,35,53,71
+Sorghum,32,42,75
+Soybean,34,74,66
+Millet,34,26,73
+Barley,32,48,70
+Millet,33,31,74
+Wheat,33,83,66
+Green gram,35,78,66
+Rap seed,32,42,68
+Mustard,35,45,66
+Rice,35,117,73
+Wheat,35,73,73
+Field Pea,33,55,66
+Black Gram,32,52,68
+Rice,32,119,72
+Sorghum,34,52,65
+Sunflower,35,125,68
+Sorghum,33,44,71
+Maize,32,80,67
+Rice,35,141,74
+Millet,33,35,68
+Cotton,33,54,74
+Gram,35,39,74
+Millet,34,26,73
+Cotton,33,68,66
+Barley,34,49,69
+Sunflower,33,148,75
+Barley,33,48,66
+Maize,32,77,70
+Mustard,33,37,71
+Mustard,32,44,74
+Rice,32,137,73
+Barley,32,50,67
+Rap seed,34,39,71
+Rap seed,34,40,72
+Mustard,34,41,74
+Field Pea,33,40,69
+Gram,35,35,75
+Wheat,32,76,70
+Sorghum,33,44,66
+Millet,35,32,68
+Wheat,33,62,68
+Barley,35,48,68
+SugarCane,33,272,66
+Black Gram,34,58,68
+Barley,33,42,72
+Sunflower,32,40,74
+Cotton,33,59,72
+Field Pea,35,47,72
+Gram,35,38,71
+Green gram,35,61,71
+Sorghum,34,60,70
+Maize,33,73,65
+Groundnut,34,53,67
+Sorghum,33,60,66
+Barley,33,47,69
+Green gram,35,70,70
+Barley,32,46,67
+Gram,35,41,67
+Gram,35,37,69
+Cotton,34,61,70
+Maize,32,69,74
+Rice,34,126,66
+Cotton,32,56,70
+Millet,32,31,74
+Maize,32,51,70
+SugarCane,34,287,67
+Cotton,35,53,75
+Maize,33,56,66
+Gram,35,41,71
+Maize,35,59,74
+Rap seed,33,43,74
+Cotton,33,58,71
+Wheat,35,60,66
+Mustard,35,36,66
+Sunflower,34,99,74
+Rap seed,34,38,73
+Millet,34,31,66
+Gram,35,41,68
+Gram,33,45,69
+Black Gram,32,46,75
+Millet,33,34,66
+Mustard,34,42,68
+Rap seed,32,35,68
+Wheat,35,81,68
+Rap seed,33,44,74
+Field Pea,32,40,68
+Wheat,34,88,75
+Maize,32,79,65
+Gram,32,45,75
+Millet,35,27,68
+Cotton,34,68,69
+Rap seed,35,35,70
+Mustard,35,35,67
+Millet,33,26,73
+Sunflower,35,48,72
+Rice,33,124,75
+Mustard,35,41,72
+Soybean,33,75,69
+Barley,32,50,67
+Rap seed,32,41,74
+Maize,32,55,69
+Rap seed,34,44,67
+Sorghum,33,50,74
+Millet,35,34,73
+Field Pea,34,50,69
+Green gram,33,62,75
+Soybean,32,60,68
+Gram,35,38,67
+Mustard,33,41,68
+SugarCane,34,284,73
+Green gram,32,80,75
+Wheat,35,75,72
+Rice,35,146,68
+Groundnut,34,88,74
+Field Pea,33,52,65
+Sunflower,34,55,69
+Sunflower,32,55,70
+Groundnut,34,92,69
+Cotton,32,65,73
+Sunflower,32,100,65
+Mustard,34,44,70
+Green gram,32,71,70
+Soybean,34,69,71
+Wheat,34,87,70
+Rice,33,124,74
+Rice,35,143,70
+Wheat,33,79,69
+Groundnut,33,100,72
+Maize,35,79,69
+Soybean,35,68,72
+Gram,35,45,66
+Rap seed,35,37,73
+Rice,34,112,71
+Barley,35,39,69
+Field Pea,34,58,71
+Gram,34,39,65
+Black Gram,32,42,70
+Barley,33,44,72
+Millet,34,28,67
+Soybean,33,63,73
+Gram,32,41,71
+Wheat,34,69,68
+Rice,33,146,74
+Gram,33,41,73
+Soybean,33,74,73
+Green gram,32,75,69
+Mustard,34,42,65
+Field Pea,34,44,67
+SugarCane,34,286,73
+Rice,33,111,73
+Groundnut,32,86,74
+Gram,32,44,69
+Cotton,32,50,68
+Sunflower,34,108,71
+Sorghum,35,44,74
+Black Gram,35,52,73
+Rap seed,35,43,72
+Green gram,34,72,75
+Sunflower,35,31,70
+Wheat,32,73,74
+Barley,35,38,68
+Black Gram,32,55,73
+Groundnut,33,89,73
+Sorghum,35,55,74
+Mustard,32,37,66
+Barley,35,47,67
+Field Pea,32,41,69
+Groundnut,34,51,71
+Field Pea,33,56,72
+Cotton,33,68,74
+Black Gram,32,52,71
+Barley,35,43,68
+Sorghum,32,51,69
+Wheat,33,88,72
+Sorghum,32,40,67
+Rap seed,33,36,74
+Rap seed,33,45,65
+Sorghum,35,55,68
+SugarCane,33,257,69
+Field Pea,32,47,67
+Barley,35,41,66
+SugarCane,35,290,66
+Millet,32,27,65
+Rap seed,33,36,75
+Cotton,33,63,66
+Barley,32,47,75
+SugarCane,35,263,66
+Black Gram,35,45,67
+SugarCane,32,264,71
+Sorghum,33,46,68
+Barley,35,35,70
+Black Gram,34,54,71
+Cotton,34,51,66
+Mustard,34,37,67
+Groundnut,34,54,70
+SugarCane,35,288,67
+Rap seed,34,37,73
+Soybean,34,64,75
+Rap seed,33,45,66
+Soybean,34,74,67
+Wheat,34,82,75
+Rap seed,33,40,72
+Sunflower,32,129,67
+SugarCane,34,278,71
+Groundnut,35,88,68
+Soybean,35,73,70
+Soybean,35,62,67
+Field Pea,33,53,72
+Maize,34,73,69
+Millet,35,35,74
+Groundnut,35,81,71
+Rap seed,32,40,75
+Gram,32,44,69
+Barley,35,40,70
+Gram,34,40,74
+Cotton,35,61,65
+Rice,33,148,65
+Barley,33,48,70
+Mustard,35,45,71
+Maize,33,64,72
+Field Pea,34,48,70
+Rice,33,147,75
+Sunflower,35,55,68
+Barley,34,38,70
+SugarCane,35,284,66
+Sunflower,35,52,74
+Wheat,32,64,67
+Cotton,32,68,72
+Barley,33,50,69
+Mustard,35,37,67
+Cotton,35,64,75
+Maize,34,50,69
+Soybean,35,75,66
+SugarCane,33,260,75
+Black Gram,35,57,72
+Black Gram,33,45,72
+Mustard,32,42,70
+Cotton,34,64,65
+Millet,32,26,70
+Black Gram,34,56,70
+Wheat,34,71,67
+SugarCane,35,271,72
+Millet,34,28,75
+Soybean,34,73,66
+Maize,33,78,66
+Rice,35,147,71
+Barley,32,43,72
+Mustard,35,38,72
+Rice,34,101,75
+Rap seed,34,43,66
+Field Pea,34,40,74
+Cotton,32,60,66
+Sunflower,35,55,70
+Maize,33,66,69
+Soybean,33,63,66
+Maize,32,52,75
+Sunflower,34,138,70
+Barley,35,38,73
+Black Gram,33,60,74
+Sunflower,34,76,75
+Maize,33,52,75
+Groundnut,35,87,72
+Maize,32,55,65
+Cotton,33,59,65
+Millet,35,33,66
+Sorghum,32,56,67
+Sorghum,32,52,70
+Soybean,33,66,66
+Wheat,33,81,70
+Gram,35,35,66
+Black Gram,35,45,70
+Millet,35,33,67
+Black Gram,33,56,73
+Soybean,32,71,65
+Millet,33,31,65
+SugarCane,35,261,69
+Rap seed,35,39,70
+Mustard,34,38,69
+Maize,35,70,66
+Sorghum,34,56,71
+Black Gram,32,46,67
+Field Pea,35,55,66
+Sunflower,35,95,70
+Soybean,33,71,71
+Soybean,33,66,73
+Black Gram,33,43,69
+Barley,34,49,67
+Black Gram,35,46,66
+Sunflower,35,73,66
+Field Pea,33,51,67
+Sunflower,34,71,70
+Barley,34,35,73
+Field Pea,34,56,65
+SugarCane,35,283,70
+Maize,32,80,69
+Rap seed,34,43,68
+SugarCane,35,271,66
+Soybean,35,72,68
+Field Pea,33,44,73
+Rap seed,34,45,73
+Field Pea,32,48,72
+Sorghum,35,47,68
+Field Pea,34,58,75
+Gram,34,38,73
+Maize,32,71,68
+Wheat,33,74,68
+Groundnut,33,91,67
+Rap seed,33,36,72
+Gram,34,40,72
+Black Gram,33,53,75
+Mustard,33,41,66
+Rice,32,131,68
+Soybean,33,66,74
+Soybean,32,62,70
+Maize,32,50,65
+Gram,34,44,70
+Rice,33,129,71
+Black Gram,33,47,66
+Sunflower,34,43,67
+Groundnut,33,100,65
+Millet,33,28,66
+Wheat,32,68,67
+Sunflower,34,77,65
+Sunflower,32,59,72
+Rice,35,123,66
+Wheat,32,82,68
+Maize,33,72,73
+Sorghum,34,59,68
+Black Gram,32,59,65
+Gram,33,35,74
+Cotton,34,57,70
+SugarCane,33,293,66
+Gram,32,37,68
+Gram,34,42,70
+Wheat,34,63,71
+Barley,35,50,73
+Field Pea,35,56,75
+Barley,33,50,74
+Mustard,32,41,69
+SugarCane,34,253,70
+SugarCane,33,300,65
+Green gram,34,77,66
+Green gram,32,65,65
+Wheat,33,72,74
+Barley,33,35,65
+Soybean,35,74,67
+Wheat,35,63,71
+Cotton,32,53,65
+Rice,34,100,67
+Millet,33,26,71
+Wheat,33,84,69
+Soybean,35,68,66
+Maize,33,56,72
+Sorghum,35,58,66
+Field Pea,35,40,66
+Barley,35,44,71
+Green gram,34,63,66
+Millet,32,30,73
+Gram,32,36,67
+Soybean,33,61,74
+Black Gram,33,57,65
+Barley,34,47,69
+Rap seed,33,38,73
+Sunflower,35,82,73
+Field Pea,32,58,67
+Cotton,35,55,66
+Groundnut,33,61,73
+Wheat,34,89,69
+Field Pea,35,56,71
+Rice,35,146,73
+SugarCane,32,261,65
+SugarCane,34,275,68
+Black Gram,32,48,67
+Cotton,33,55,72
+Sorghum,35,59,73
+Black Gram,35,58,67
+Gram,32,36,74
+Groundnut,32,88,68
+Black Gram,32,47,67
+Mustard,33,39,67
+Wheat,35,69,70
+Millet,34,29,73
+Sorghum,35,45,67
+Groundnut,32,60,74
+Soybean,34,72,70
+Gram,34,36,69
+Soybean,33,61,69
+Groundnut,35,80,71
+Sorghum,35,57,69
+Cotton,34,66,66
+Cotton,32,53,75
+Sunflower,35,70,72
+Green gram,35,70,72
+Soybean,35,75,68
+Sunflower,35,72,73
+Mustard,35,43,74
+Millet,34,35,65
+Sorghum,34,59,69
+Sorghum,35,57,74
+Field Pea,32,59,70
+Millet,33,35,72
+Rap seed,35,45,70
+Wheat,34,76,67
+Rice,33,109,70
+Soybean,32,72,66
+Green gram,34,63,69
+Field Pea,34,40,67
+Sunflower,35,61,72
+Rap seed,32,40,75
+Wheat,35,64,68
+Rap seed,33,44,71
+Maize,33,78,71
+Green gram,32,69,72
+Gram,33,42,65
+Soybean,33,67,70
+Soybean,32,67,73
+Groundnut,32,74,67
+SugarCane,34,261,72
+Rice,33,130,72
+Mustard,34,44,66
+Rap seed,32,40,67
+Rap seed,33,35,74
+Gram,32,35,72
+Mustard,32,41,74
+SugarCane,32,272,67
+Wheat,35,70,71
+Gram,33,38,73
+Wheat,35,69,67
+Gram,34,39,75
+Cotton,35,68,68
+Rice,34,108,71
+SugarCane,32,256,73
+Sorghum,33,47,69
+Maize,35,75,74
+Sunflower,33,124,71
+Rap seed,35,43,74
+Rice,34,130,66
+SugarCane,34,263,66
+Cotton,33,52,72
+SugarCane,32,286,70
+Sorghum,35,53,66
+Black Gram,33,40,75
+Gram,35,43,73
+Black Gram,34,52,67
+Maize,32,58,70
+Black Gram,34,50,69
+Rice,33,118,69
+Green gram,33,80,74
+Soybean,35,73,71
+Rice,32,133,70
+Barley,35,47,71
+Sorghum,35,53,75
+Black Gram,34,45,75
+Groundnut,35,98,68
+Mustard,33,41,66
+Green gram,35,73,73
+Millet,33,30,75
+SugarCane,34,276,75
+Barley,34,46,66
+Soybean,33,69,69
+Field Pea,34,60,69
+Gram,32,43,68
+Sorghum,35,41,69
+Green gram,35,62,68
+Black Gram,33,40,69
+Black Gram,33,48,68
+Barley,32,40,70
+Wheat,34,88,66
+Sorghum,33,44,65
+Gram,35,45,73
+Groundnut,32,90,69
+Groundnut,33,68,71
+Millet,32,33,68
+Sorghum,34,60,71
+SugarCane,32,296,69
+Field Pea,32,42,74
+Millet,32,31,67
+Cotton,34,64,67
+Black Gram,33,51,71
+Wheat,33,73,73
+Barley,34,45,75
+Groundnut,33,97,75
+Maize,33,70,66
+Gram,32,39,67
+Green gram,32,64,75
+Cotton,33,61,66
+Sorghum,35,60,67
+Gram,34,39,74
+Groundnut,33,86,72
+Wheat,33,63,68
+Green gram,33,65,66
+Field Pea,32,54,75
+Black Gram,35,57,73
+Rice,34,135,68
+SugarCane,35,269,75
+Gram,33,40,65
+Barley,34,39,65
+Soybean,32,63,74
+Mustard,34,38,66
+Soybean,34,74,70
+SugarCane,32,257,70
+Field Pea,35,51,73
+Soybean,32,66,67
+Sorghum,35,52,72
+Rap seed,32,38,72
+Gram,32,43,65
+Mustard,35,41,69
+SugarCane,32,257,68
+Sorghum,32,52,67
+Rap seed,32,45,67
+Green gram,34,80,70
+Rice,34,115,73
+Green gram,34,63,71
+Soybean,33,68,70
+Groundnut,35,64,69
+Barley,35,46,65
+Green gram,32,74,74
+Rice,35,124,74
+Wheat,35,65,65
+SugarCane,35,252,68
+Sunflower,35,33,68
+SugarCane,34,287,74
+Wheat,33,75,66
+Rice,35,146,67
+Sorghum,33,47,66
+Cotton,34,62,72
+SugarCane,34,266,68
+Groundnut,33,52,66
+Field Pea,35,42,66
+Rap seed,32,39,72
+Millet,32,32,75
+SugarCane,35,255,73
+Wheat,34,74,66
+Groundnut,34,51,75
+Rice,33,123,66
+Rap seed,35,37,69
+Millet,33,32,67
+Field Pea,34,43,70
+Rice,34,112,72
+Sunflower,32,90,74
+SugarCane,34,258,65
+Sunflower,35,97,75
+Green gram,33,80,66
+Barley,35,49,66
+Soybean,32,75,71
+Groundnut,32,52,70
+SugarCane,32,259,67
+Groundnut,32,91,70
+Black Gram,32,52,67
+Sunflower,35,74,70
+Sunflower,32,85,67
+Black Gram,33,50,68
+Groundnut,33,74,68
+Field Pea,32,45,68
+Maize,33,53,67
+Sunflower,35,84,74
+Field Pea,32,58,75
+SugarCane,33,295,73
+Sorghum,35,58,72
+Sunflower,33,65,72
+Millet,34,29,71
+Rice,35,116,68
+Rap seed,35,43,67
+Field Pea,35,46,68
+Rap seed,34,41,74
+Field Pea,34,47,69
+Sunflower,33,147,66
+Mustard,33,39,68
+Mustard,32,42,70
+Groundnut,33,56,75
+Groundnut,35,95,74
+Sorghum,34,55,74
+Sorghum,35,52,70
+Barley,35,48,66
+Sorghum,33,54,70
+Rice,35,131,68
+Rice,35,115,72
+Barley,33,38,74
+Groundnut,32,52,67
+Field Pea,33,45,72
+Black Gram,33,50,71
+Sunflower,35,46,66
+Sorghum,33,49,67
+Maize,35,77,74
+Maize,35,69,75
+Barley,32,49,65
+Groundnut,34,65,74
+Groundnut,32,59,66
+Maize,33,69,68
+Green gram,32,80,69
+Sunflower,35,30,75
+SugarCane,34,281,68
+Sorghum,32,46,75
+Black Gram,33,60,66
+Barley,35,44,73
+Rap seed,32,38,74
+Rap seed,34,41,70
+Gram,34,41,71
+Soybean,35,64,72
+Groundnut,34,63,72
+Black Gram,32,55,67
+Field Pea,34,60,74
+Maize,33,71,74
+Cotton,34,55,66
+Millet,34,35,72
+Maize,33,74,68
+Black Gram,35,55,67
+Black Gram,34,50,69
+Millet,32,32,69
+Sunflower,33,39,73
+Green gram,33,64,72
+Cotton,33,63,65
+Mustard,32,37,74
+Mustard,32,37,70
+Cotton,34,56,70
+Maize,32,57,67
+Rice,32,117,70
+Barley,34,37,70
+SugarCane,32,259,67
+Cotton,35,65,72
+Gram,35,37,71
+Wheat,32,85,73
+Rap seed,32,37,65
+SugarCane,34,288,69
+Maize,33,52,71
+Rice,33,112,68
+Rice,35,124,74
+Maize,32,73,65
+Cotton,32,68,65
+Sorghum,32,43,74
+Barley,32,44,66
+Rice,35,106,73
+Soybean,34,66,66
+Sorghum,33,47,66
+Gram,33,45,71
+Green gram,35,69,68
+Black Gram,32,59,72
+Sunflower,33,129,65
+Rap seed,33,44,69
+Soybean,33,75,71
+Cotton,34,61,69
+Soybean,34,69,73
+Maize,35,56,70
+Field Pea,32,41,74
+Black Gram,34,59,65
+Gram,33,36,69
+Rice,32,109,69
+Wheat,32,85,65
+Rice,32,128,74
+Soybean,32,71,73
+Field Pea,35,43,73
+Mustard,35,40,74
+Rap seed,34,45,74
+Groundnut,34,60,70
+Groundnut,35,80,73
+Soybean,35,64,70
+Sorghum,35,56,72
+SugarCane,35,295,74
+Sorghum,32,57,68
+Sorghum,35,57,67
+SugarCane,35,270,69
+Mustard,34,38,71
+SugarCane,35,276,71
+Soybean,33,73,68
+Groundnut,33,82,72
+Gram,35,36,68
+Rap seed,35,38,66
+Rap seed,35,40,71
+Green gram,33,68,71
+Soybean,32,71,67
+Millet,32,33,68
+Field Pea,33,40,75
+Groundnut,32,93,70
+Rice,34,150,69
+Mustard,32,35,68
+Sorghum,35,52,71
+Wheat,35,62,67
+Millet,34,35,70
+Millet,33,35,74
+Cotton,35,66,70
+SugarCane,34,295,71
+SugarCane,35,299,75
+Cotton,32,62,68
+Sorghum,35,48,72
+Gram,32,37,65
+Field Pea,32,43,70
+Rice,32,102,65
+Field Pea,32,49,67
+Black Gram,32,57,74
+Maize,33,73,74
+Gram,34,35,66
+Groundnut,35,53,70
+Green gram,34,79,67
+Soybean,33,75,74
+Green gram,35,66,68
+Gram,33,45,70
+Soybean,32,69,74
+SugarCane,32,296,75
+Green gram,32,75,70
+Sunflower,32,108,65
+Rap seed,32,43,67
+Barley,32,46,72
+Sorghum,35,44,69
+Groundnut,32,76,67
+Sorghum,35,60,66
+Field Pea,32,41,73
+Rice,35,123,68
+Field Pea,32,55,70
+Barley,34,41,68
+Field Pea,32,53,68
+Barley,33,40,66
+Mustard,33,45,69
+Wheat,33,69,65
+Groundnut,35,78,67
+Mustard,34,44,70
+Black Gram,32,48,75
+Rap seed,34,42,68
+Barley,33,50,66
+Cotton,35,60,72
+Green gram,33,66,74
+SugarCane,35,281,72
+Rap seed,35,37,70
+Millet,32,27,65
+Sunflower,32,81,70
+Black Gram,32,45,66
+Gram,33,44,67
+Sorghum,35,40,69
+Groundnut,34,90,70
+Millet,35,32,73
+Green gram,32,78,74
+Wheat,35,64,71
+Sunflower,35,37,70
+Green gram,33,78,66
+Field Pea,35,60,66
+Mustard,32,37,72
+Sorghum,33,50,74
+Cotton,34,65,65
+Soybean,34,65,70
+Rice,32,126,67
+Millet,32,31,74
+Wheat,35,79,71
+Millet,32,31,68
+Sorghum,34,47,68
+Field Pea,33,58,65
+Rice,33,122,71
+Mustard,35,35,71
+Cotton,35,68,69
+Rice,32,104,72
+Field Pea,32,51,74
+SugarCane,35,265,67
+Sorghum,34,42,75
+Rap seed,34,40,74
+Black Gram,35,54,66
+SugarCane,33,259,68
+Rice,33,144,66
+Rice,32,125,67
+Cotton,35,56,74
+Gram,33,43,67
+Field Pea,33,44,73
+Sorghum,35,56,74
+Millet,35,33,66
+Rice,35,122,73
+Soybean,34,67,75
+Mustard,33,44,74
+Gram,33,35,73
+Sorghum,35,46,68
+Cotton,33,50,74
+Cotton,32,64,68
+Green gram,33,79,67
+Millet,32,32,69
+Maize,34,57,75
+Wheat,32,71,67
+Wheat,33,89,65
+Field Pea,35,56,66
+Wheat,32,62,67
+SugarCane,34,270,70
+Green gram,33,76,67
+Cotton,33,65,67
+Sunflower,32,83,69
+Mustard,32,36,71
+Rap seed,35,39,69
+Wheat,35,69,71
+Gram,33,35,66
+Sorghum,33,45,72
+Wheat,32,69,70
+SugarCane,32,297,67
+Field Pea,33,47,74
+Field Pea,34,45,69
+Maize,32,73,67
+Mustard,32,42,68
+Field Pea,35,51,67
+SugarCane,33,258,74
+Rice,34,149,73
+Millet,32,35,73
+Field Pea,32,47,67
+Rice,35,109,66
+Wheat,34,77,72
+Rap seed,35,43,75
+Rice,32,137,68
+Sorghum,32,59,74
+Soybean,32,72,65
+Mustard,32,37,66
+Millet,33,26,69
+Maize,33,69,71
+Sorghum,32,55,73
+Maize,32,78,66
+Barley,34,50,66
+Wheat,35,87,70
+Gram,35,40,69
+Rice,34,104,69
+Green gram,35,77,68
+SugarCane,35,272,71
+Sunflower,35,93,69
+Cotton,34,61,69
+Barley,35,40,67
+Soybean,35,68,71
+Sunflower,35,73,73
+Maize,32,68,68
+Mustard,35,41,66
+Barley,32,43,72
+Millet,32,35,65
+Green gram,32,77,65
+Rice,32,119,70
+SugarCane,35,261,68
+Barley,35,42,71
+Rice,34,130,72
+Groundnut,35,56,70
+Black Gram,34,49,68
+Cotton,32,67,74
+Millet,35,33,72
+Soybean,32,60,67
+Millet,32,25,72
+Mustard,32,42,68
+Field Pea,34,53,74
+Field Pea,34,42,74
+Rice,33,149,71
+Cotton,32,55,70
+Millet,34,33,73
+Sunflower,35,96,66
+Maize,33,52,74
+Mustard,33,44,69
+Green gram,33,73,74
+Barley,34,49,66
+Black Gram,33,59,66
+Millet,34,29,70
+Rice,32,110,65
+SugarCane,32,256,70
+Green gram,33,70,68
+Sorghum,35,41,70
+Green gram,35,69,75
+Cotton,34,61,74
+Black Gram,32,49,65
+Barley,33,42,68
+Groundnut,32,64,69
+Millet,32,27,68
+Sorghum,35,51,66
+Field Pea,34,53,67
+Wheat,35,87,66
+Sunflower,32,59,73
+Field Pea,35,47,73
+Gram,33,44,66
+Soybean,32,70,68
+Rice,32,141,69
+Sunflower,35,68,73
+SugarCane,33,288,71
+Rice,34,148,73
+Wheat,33,62,75
+Rap seed,35,44,68
+Rice,32,101,69
+Rice,33,102,72
+Millet,32,33,72
+Black Gram,33,54,71
+Black Gram,34,58,73
+Millet,32,28,67
+Cotton,33,60,69
+Rap seed,32,35,72
+Barley,34,44,68
+Barley,33,46,71
+Maize,35,58,72
+Gram,33,42,71
+Sorghum,34,48,73
+Sorghum,33,49,71
+Field Pea,33,45,65
+Black Gram,35,59,74
+Sunflower,35,79,65
+Soybean,35,74,70
+Mustard,35,37,72
+Groundnut,34,76,65
+Millet,35,30,75
+Barley,35,42,75
+Soybean,35,73,69
+Barley,32,50,67
+Millet,35,35,70
+Field Pea,34,49,73
+Mustard,35,39,73
+Sunflower,35,34,71
+Soybean,34,60,65
+Groundnut,35,83,75
+Mustard,33,45,69
+Barley,32,40,74
+SugarCane,33,292,66
+Gram,34,36,67
+Groundnut,35,91,69
+Gram,34,44,68
+SugarCane,35,291,70
+Soybean,32,61,65
+Rice,35,141,69
+Field Pea,32,59,65
+Millet,32,31,74
+SugarCane,35,263,70
+Field Pea,34,54,73
+Rap seed,35,45,67
+Millet,32,34,67
+Mustard,35,37,67
+Wheat,35,60,70
+Rice,35,128,71
+Maize,32,52,69
+Barley,35,46,74
+Mustard,34,45,65
+Sorghum,34,45,66
+Rice,33,119,66
+Cotton,34,54,71
+Soybean,33,63,65
+Mustard,32,42,73
+Cotton,32,61,67
+Sunflower,32,125,65
+Gram,35,38,68
+SugarCane,34,294,72
+Sorghum,32,47,68
+Millet,34,32,69
+Rap seed,32,40,74
+Wheat,33,89,66
+Cotton,32,50,68
+Green gram,32,60,67
+Black Gram,33,56,65
+Black Gram,35,43,72
+Sorghum,33,53,66
+Barley,34,45,70
+Soybean,35,74,73
+Sunflower,34,73,70
+Barley,34,49,69
+Rap seed,34,42,71
+Groundnut,33,81,74
+Gram,35,43,73
+Groundnut,35,52,66
+Field Pea,34,41,71
+Field Pea,32,54,73
+Maize,35,58,67
+Mustard,32,45,72
+Maize,34,79,70
+Green gram,33,77,66
+Mustard,35,40,69
+Mustard,35,36,66
+Barley,33,37,66
+Maize,35,50,69
+Mustard,33,42,65
+Sorghum,33,42,73
+SugarCane,35,263,68
+Groundnut,34,68,75
+Cotton,32,66,69
+Field Pea,34,47,74
+Rap seed,33,39,66
+SugarCane,32,298,68
+Mustard,35,36,70
+Soybean,32,65,72
+Barley,33,44,75
+Groundnut,35,96,67
+Wheat,33,65,66
+Cotton,35,54,72
+Soybean,34,67,73
+Field Pea,33,45,75
+Groundnut,34,52,67
+Wheat,35,75,66
+Maize,33,61,73
+Rice,32,141,70
+Green gram,32,72,66
+Sunflower,33,114,74
+Field Pea,32,48,65
+Gram,32,43,70
+Green gram,35,65,68
+Mustard,32,41,68
+Green gram,34,61,71
+Millet,33,32,74
+Cotton,32,70,68
+Cotton,34,69,71
+Cotton,35,70,70
+Groundnut,32,91,69
+Black Gram,33,50,72
+Groundnut,33,92,72
+SugarCane,34,272,67
+Rap seed,34,39,67
+Soybean,35,62,75
+Rap seed,32,36,74
+Rap seed,32,39,65
+Black Gram,34,47,70
+Gram,33,39,66
+SugarCane,33,287,73
+Groundnut,34,62,67
+Black Gram,35,57,70
+Wheat,32,81,71
+SugarCane,33,272,75
+Mustard,33,40,69
+Cotton,35,70,66
+Sunflower,32,61,65
+Gram,34,40,69
+Rap seed,32,37,74
+Maize,32,55,72
+Green gram,32,67,67
+Cotton,33,62,67
+Maize,33,56,73
+Field Pea,32,42,72
+Gram,34,41,70
+Barley,34,43,70
+Sorghum,33,53,66
+Groundnut,34,51,69
+Maize,34,78,75
+Millet,35,33,74
+Millet,35,31,70
+Field Pea,35,53,68
+Black Gram,35,41,68
+Millet,33,30,69
+Wheat,32,64,66
+Soybean,32,67,70
+Mustard,35,41,69
+Green gram,33,74,68
+SugarCane,32,255,67
+Field Pea,33,56,74
+SugarCane,33,300,72
+Black Gram,33,42,72
+Rap seed,35,35,72
+Green gram,34,61,75
+SugarCane,35,274,75
+Millet,33,26,75
+Groundnut,34,74,71
+Rice,32,141,74
+Maize,34,80,72
+Wheat,34,79,65
+Barley,32,43,66
+Sunflower,32,59,66
+Cotton,32,70,65
+Field Pea,35,53,69
+Maize,33,59,69
+Field Pea,35,41,68
+Gram,32,37,68
+Millet,35,33,65
+Sunflower,33,91,69
+Gram,35,36,68
+Groundnut,33,85,72
+Sorghum,32,53,69
+Sorghum,32,59,65
+Sorghum,35,49,75
+Millet,33,35,73
+Sorghum,34,42,66
+Soybean,33,64,66
+Barley,35,38,71
+Barley,32,50,65
+Mustard,32,45,72
+Maize,35,76,71
+Rap seed,34,35,69
+Cotton,32,52,71
+Cotton,32,52,70
+Mustard,32,44,65
+Wheat,32,63,66
+Field Pea,35,48,74
+Sunflower,32,70,69
+Rice,32,139,72
+Wheat,33,69,71
+Black Gram,32,60,70
+Cotton,33,57,75
+Wheat,35,61,73
+Wheat,35,78,69
+Black Gram,35,55,66
+Field Pea,34,47,68
+Millet,35,34,72
+Black Gram,34,49,74
+Millet,33,29,73
+SugarCane,35,257,68
+Gram,34,42,73
+Black Gram,35,41,69
+Maize,35,64,68
+Barley,33,40,73
+Mustard,33,41,65
+Cotton,34,50,70
+Groundnut,33,63,66
+Green gram,33,76,74
+Rice,34,119,70
+SugarCane,35,293,71
+SugarCane,33,251,73
+Cotton,32,54,74
+Maize,35,77,73
+Field Pea,32,40,73
+Sunflower,34,119,67
+Field Pea,33,50,66
+Wheat,33,85,71
+Green gram,35,69,71
+Field Pea,33,44,66
+Rice,35,106,69
+Millet,32,34,73
+Rice,32,123,67
+Soybean,33,63,75
+Gram,34,44,68
+Black Gram,34,44,69
+Wheat,34,83,74
+Cotton,33,64,73
+Groundnut,33,98,68
+SugarCane,35,291,74
+Maize,34,72,66
+Sunflower,34,92,69
+Sunflower,35,77,70
+Rice,35,103,73
+Field Pea,35,42,69
+Green gram,33,74,67
+Black Gram,34,43,73
+Soybean,35,71,70
+SugarCane,35,251,70
+Barley,33,47,65
+Sorghum,32,59,65
+Rice,33,118,69
+Wheat,35,84,73
+Maize,32,57,75
+Mustard,32,43,67
+Sunflower,35,119,73
+Sorghum,34,48,70
+Field Pea,35,56,72
+Field Pea,35,57,75
+Green gram,35,80,72
+Black Gram,33,59,74
+Green gram,34,78,69
+Cotton,35,69,68
+Field Pea,32,40,74
+Sorghum,35,45,71
+Sunflower,35,58,66
+Soybean,33,63,74
+Rap seed,32,39,70
+Green gram,33,61,66
+Mustard,34,44,70
+Rice,35,103,67
+Rap seed,33,35,69
+Sunflower,32,47,67
+Soybean,34,69,73
+Wheat,33,85,67
+Green gram,33,72,72
+Green gram,35,65,73
+Sunflower,35,146,69
+Rice,34,122,67
+Sunflower,32,47,68
+Field Pea,33,48,68
+Cotton,35,62,75
+Black Gram,32,46,70
+Green gram,32,77,73
+Soybean,35,62,73
+Mustard,34,40,66
+Sunflower,35,101,72
+Green gram,33,70,73
+Millet,35,27,68
+Wheat,34,74,69
+Wheat,32,65,65
+Mustard,32,42,65
+Field Pea,34,45,72
+SugarCane,32,281,65
+Field Pea,32,40,71
+Millet,32,27,75
+Groundnut,32,97,68
+Maize,34,62,71
+Gram,34,41,74
+SugarCane,35,297,71
+SugarCane,33,299,71
+Groundnut,34,80,73
+Wheat,33,74,75
+Cotton,33,52,75
+Millet,33,33,72
+Gram,32,35,75
+Cotton,34,68,73
+Maize,35,64,75
+Millet,34,29,68
+Gram,35,43,66
+Soybean,32,68,74
+Sunflower,33,122,66
+Cotton,34,58,66
+Black Gram,32,52,72
+Barley,32,45,68
+Mustard,34,41,68
+Rap seed,34,45,75
+Groundnut,32,80,65
+Millet,34,31,71
+Sunflower,35,57,75
+Sunflower,33,127,68
+Cotton,35,62,70
+Millet,33,25,75
+Black Gram,35,53,71
+Green gram,35,60,66
+Soybean,32,71,67
+Millet,34,28,70
+Field Pea,34,44,65
+Barley,34,44,71
+Millet,35,26,69
+Sunflower,34,114,72
+SugarCane,32,296,65
+Rap seed,33,43,68
+SugarCane,35,258,66
+Black Gram,32,46,68
+Maize,34,59,70
+Barley,32,38,69
+Wheat,32,78,72
+SugarCane,35,252,74
+SugarCane,33,288,67
+Maize,34,56,69
+Sunflower,33,42,70
+Rice,35,117,68
+Mustard,33,37,70
+Soybean,32,64,70
+Sorghum,34,51,70
+Mustard,34,40,69
+Barley,33,48,69
+Barley,34,44,70
+Black Gram,33,44,74
+Gram,32,38,68
+Rap seed,33,36,71
+Gram,34,37,66
+Groundnut,33,68,67
+Groundnut,32,100,65
+Sunflower,34,74,69
+Soybean,35,68,73
+Rap seed,33,38,66
+Wheat,35,73,69
+Mustard,33,36,73
+Gram,33,40,65
+Sorghum,33,40,66
+Rice,35,112,66
+Field Pea,35,47,73
+Soybean,33,64,75
+Millet,35,35,73
+Field Pea,32,59,74
+Black Gram,35,43,72
+Soybean,35,69,66
+Mustard,33,40,74
+Groundnut,32,91,68
+Groundnut,33,72,75
+Gram,34,43,67
+Barley,33,48,71
+Groundnut,35,95,75
+Barley,35,38,70
+Field Pea,35,41,65
+Maize,32,66,67
+Field Pea,35,56,72
+Millet,34,33,69
+Field Pea,34,57,71
+Cotton,35,68,67
+Barley,35,40,73
+Field Pea,35,51,72
+Barley,32,46,68
+Groundnut,32,96,72
+Rice,34,124,68
+Wheat,34,74,74
+Sorghum,32,45,66
+Barley,34,44,66
+Sunflower,35,122,75
+Green gram,34,68,71
+Sorghum,35,54,68
+Green gram,33,68,73
+Black Gram,34,59,72
+Rap seed,33,35,75
+Maize,35,51,66
+Rice,34,114,66
+Gram,33,40,65
+Maize,33,59,75
+Rap seed,35,43,73
+SugarCane,33,273,65
+Barley,34,42,65
+Green gram,33,65,66
+Mustard,32,39,65
+Wheat,35,64,73
+Gram,32,40,69
+Rap seed,35,44,71
+Maize,34,65,68
+Millet,35,28,73
+Wheat,35,77,70
+SugarCane,34,282,65
+Field Pea,32,51,67
+Gram,33,40,69
+Sunflower,34,139,74
+Sunflower,33,129,65
+Mustard,34,41,73
+Rice,33,124,74
+Sorghum,33,45,66
+Millet,32,28,67
+Field Pea,33,54,71
+Barley,32,45,65
+Groundnut,34,65,68
+Barley,33,45,75
+Sunflower,35,61,71
+Wheat,33,83,69
+Sunflower,32,78,67
+Cotton,34,66,73
+Gram,34,36,68
+Rap seed,32,39,70
+Maize,32,75,74
+Cotton,33,60,67
+Millet,35,27,71
+Wheat,34,67,66
+Millet,34,34,70
+Maize,34,55,75
+Green gram,33,75,66
+Groundnut,35,61,66
+Cotton,33,52,69
+Cotton,34,50,71
+Rice,34,112,65
+Barley,32,37,70
+Cotton,32,62,69
+Wheat,33,62,68
+Sorghum,32,41,74
+Wheat,32,83,69
+Maize,35,69,74
+Sorghum,33,56,75
+Field Pea,34,45,72
+Wheat,35,72,72
+Green gram,32,77,65
+Millet,35,32,72
+Rap seed,34,40,68
+Green gram,33,71,73
+Rice,33,126,65
+Rice,32,106,68
+Barley,33,47,67
+Black Gram,35,58,74
+Cotton,33,59,71
+Rice,35,113,72
+Soybean,34,72,67
+Rap seed,34,44,66
+Green gram,32,63,69
+Maize,32,51,74
+Sunflower,35,49,71
+SugarCane,34,293,66
+Green gram,34,63,71
+Gram,32,38,72
+Field Pea,34,56,66
+Cotton,35,54,70
+Black Gram,33,52,67
+Maize,35,75,73
+Wheat,34,71,75
+Black Gram,35,45,66
+Barley,35,43,75
+Mustard,33,42,66
+Barley,33,46,73
+Rice,35,140,74
+Soybean,34,73,70
+Gram,35,37,70
+Maize,34,60,69
+Rice,34,115,70
+Millet,32,34,72
+Rice,33,111,66
+Cotton,34,70,67
+Gram,33,38,74
+Groundnut,35,86,73
+Sunflower,32,128,66
+Mustard,33,36,74
+Groundnut,34,93,70
+Black Gram,35,44,65
+Wheat,34,74,75
+Sorghum,35,43,67
+Cotton,35,60,68
+Barley,33,47,68
+Sorghum,35,43,66
+Gram,35,38,70
+Black Gram,35,40,68
+Cotton,32,52,67
+Maize,34,76,70
+Field Pea,33,54,69
+Green gram,35,73,71
+Gram,32,42,70
+Black Gram,34,41,69
+SugarCane,34,258,75
+Maize,32,62,72
+Sorghum,34,41,75
+Barley,35,45,69
+Barley,35,38,70
+Field Pea,33,41,69
+Rap seed,35,40,68
+Green gram,34,76,73
+Mustard,33,35,72
+Black Gram,35,51,74
+Sunflower,33,118,72
+Rap seed,32,43,67
+Sorghum,34,57,65
+Cotton,34,57,75
+Wheat,34,83,75
+Green gram,35,80,67
+Groundnut,35,78,74
+Sunflower,32,96,71
+Black Gram,35,44,72
+Black Gram,34,55,75
+Soybean,32,67,70
+Barley,32,47,75
+Rice,33,128,71
+Rap seed,32,37,66
+Sunflower,35,40,66
+SugarCane,35,255,72
+Cotton,35,60,73
+Maize,32,61,73
+Cotton,32,61,72
+Gram,32,38,75
+Soybean,34,64,69
+Green gram,32,73,74
+Green gram,34,76,69
+Black Gram,32,43,74
+Sunflower,34,56,66
+Sunflower,34,144,68
+Gram,35,45,72
+Barley,33,44,67
+SugarCane,34,260,70
+Rice,33,131,67
+Green gram,32,69,68
+Rice,32,136,70
+SugarCane,34,271,75
+Mustard,35,40,73
+Mustard,35,45,72
+Sorghum,32,43,72
+Field Pea,35,57,66
+Millet,35,26,66
+Gram,32,36,69
+Gram,33,35,74
+SugarCane,33,293,66
+Wheat,34,71,71
+Sunflower,35,116,68
+Maize,33,67,66
+Millet,33,31,69
+Gram,33,40,68
+SugarCane,34,264,70
+Rap seed,34,39,70
+Groundnut,33,59,70
+Cotton,35,54,71
+Groundnut,35,98,66
+Barley,35,38,75
+Field Pea,35,51,72
+Mustard,33,36,71
+Barley,33,44,74
+Millet,34,30,68
+Sorghum,32,49,67
+Mustard,33,39,70
+Rice,35,115,70
+SugarCane,32,285,65
+Sunflower,34,32,68
+Groundnut,35,71,68
+Black Gram,33,40,69
+Field Pea,32,43,68
+Millet,34,32,75
+Barley,34,42,74
+Maize,35,58,75
+Barley,34,36,73
+Sorghum,34,53,74
+Millet,35,28,70
+Groundnut,35,72,72
+Groundnut,35,52,72
+Maize,34,50,67
+Mustard,32,45,75
+Millet,32,25,70
+Maize,33,56,66
+Rap seed,34,36,75
+Sorghum,33,48,73
+Rap seed,33,39,69
+Wheat,35,76,74
+Soybean,33,75,68
+Barley,35,38,66
+Maize,34,66,67
+Barley,33,43,70
+Groundnut,33,100,66
+SugarCane,35,273,68
+Soybean,33,60,75
+Gram,35,39,72
+Wheat,35,62,75
+Rap seed,33,37,66
+SugarCane,35,258,71
+Mustard,33,42,75
+Rap seed,32,36,65
+Rap seed,34,37,70
+Maize,34,62,70
+Gram,35,43,67
+Sorghum,35,41,70
+Soybean,32,70,75
+Green gram,32,67,71
+Sunflower,32,127,72
+Millet,35,33,73
+Cotton,35,66,66
+Green gram,32,69,68
+Green gram,32,71,73
+Sorghum,34,58,73
+Rice,32,143,73
+Gram,32,45,65
+Green gram,32,78,67
+Mustard,34,42,74
+Mustard,33,37,68
+Gram,33,40,71
+Green gram,33,79,74
+Green gram,33,76,65
+Millet,33,34,66
+Gram,32,44,73
+Sorghum,33,44,68
+Maize,34,58,68
+Soybean,32,63,73
+SugarCane,33,261,74
+Rap seed,33,41,67
+Rap seed,35,43,71
+Wheat,32,75,69
+Maize,33,62,68
+Black Gram,33,43,65
+Green gram,35,74,67
+Barley,33,38,74
+Field Pea,35,50,70
+Rap seed,32,41,70
+Groundnut,33,53,66
+Rap seed,34,45,70
+Millet,33,30,75
+Groundnut,33,79,67
+Sorghum,33,60,75
+Mustard,35,37,68
+Gram,32,36,73
+Gram,33,37,71
+Cotton,35,66,69
+Soybean,32,71,75
+Cotton,33,70,68
+Mustard,35,40,71
+Rap seed,35,43,73
+Green gram,33,78,73
+Green gram,35,73,66
+Sunflower,34,71,70
+Barley,32,38,65
+SugarCane,34,281,70
+Wheat,32,75,73
+Millet,33,28,68
+Field Pea,35,48,67
+Soybean,33,75,75
+Black Gram,32,40,69
+Wheat,33,71,70
+Millet,35,26,67
+Rice,35,141,73
+Soybean,35,61,66
+Green gram,35,77,73
+Wheat,35,68,66
+Mustard,34,41,70
+Gram,33,39,69
+Cotton,34,60,69
+Sorghum,33,54,75
+Wheat,32,83,68
+Millet,32,35,68
+Soybean,32,73,67
+Groundnut,33,81,70
+Gram,32,40,70
+Millet,34,26,67
+Groundnut,33,72,71
+Groundnut,34,68,65
+Field Pea,35,60,70
+Millet,33,28,69
+Cotton,34,59,68
+Groundnut,32,82,74
+Field Pea,33,44,74
+Black Gram,32,53,68
+Barley,35,42,68
+Green gram,35,66,71
+Cotton,33,59,74
+Gram,34,44,69
+Wheat,35,87,70
+Green gram,34,75,70
+Rice,33,115,74
+Rice,32,144,67
+Rap seed,35,36,69
+Mustard,35,42,65
+Barley,34,41,74
+Groundnut,35,89,67
+Wheat,35,79,73
+Rap seed,32,42,71
+Rice,35,118,66
+Cotton,33,70,66
+Rice,33,147,74
+Wheat,32,76,74
+Sunflower,34,65,71
+Black Gram,33,56,71
+Millet,32,29,70
+Mustard,32,39,72
+Rap seed,35,43,73
+Rap seed,35,40,71
+Green gram,35,70,70
+Green gram,33,66,75
+Field Pea,35,45,71
+SugarCane,34,271,69
+Groundnut,32,90,70
+Maize,32,53,65
+Rice,35,103,75
+Green gram,32,69,70
+Wheat,35,89,69
+Barley,35,39,66
+Green gram,33,72,74
+Wheat,32,69,68
+SugarCane,35,285,69
+Barley,35,38,72
+Green gram,34,79,74
+SugarCane,33,280,73
+Millet,35,26,74
+Sunflower,35,32,68
+Sunflower,33,68,74
+Soybean,35,74,70
+Sorghum,35,46,71
+Sorghum,34,42,69
+Barley,32,44,67
+Millet,33,35,66
+Sorghum,33,49,72
+Sorghum,34,55,67
+Maize,32,64,70
+Sorghum,34,42,74
+Cotton,32,51,74
+Gram,33,44,66
+Millet,34,34,69
+Cotton,34,53,73
+SugarCane,33,275,74
+Black Gram,35,45,70
+Green gram,35,80,72
+Rap seed,34,41,75
+Barley,34,43,68
+Black Gram,35,42,73
+Soybean,35,63,66
+Sunflower,35,50,67
+Field Pea,33,58,70
+Rice,34,125,70
+Sorghum,32,49,72
+Wheat,32,85,74
+Field Pea,32,47,75
+Cotton,35,59,68
+Rice,34,115,73
+Sunflower,32,129,68
+Sorghum,33,58,71
+Rice,33,113,71
+Wheat,34,70,71
+Green gram,34,67,67
+Black Gram,35,44,67
+Millet,33,26,66
+Green gram,34,66,70
+Groundnut,35,77,74
+Mustard,33,40,72
+Sunflower,34,108,66
+SugarCane,33,287,71
+Cotton,33,58,75
+Mustard,32,38,73
+Groundnut,33,89,71
+Sunflower,33,133,66
+Cotton,35,65,67
+Gram,34,37,70
+Soybean,33,62,74
+Gram,35,39,70
+Black Gram,34,52,70
+Green gram,34,73,66
+Rap seed,35,37,71
+Sunflower,32,35,68
+Mustard,33,41,73
+Groundnut,33,60,75
+SugarCane,33,295,71
+Rice,32,133,69
+Sunflower,35,70,75
+Rice,35,124,72
+Green gram,32,69,74
+Wheat,35,90,72
+Mustard,34,35,69
+Field Pea,35,41,75
+Wheat,34,82,69
+Gram,33,44,73
+Soybean,35,60,71
+Groundnut,33,100,71
+Green gram,34,75,75
+Black Gram,33,51,66
+Rap seed,32,38,69
+Soybean,33,60,74
+Groundnut,33,67,66
+SugarCane,34,285,70
+Sorghum,33,47,65
+Barley,35,37,70
+Field Pea,33,44,71
+Rice,32,134,73
+Rap seed,33,44,65
+Groundnut,32,81,73
+Wheat,32,86,73
+Cotton,33,51,68
+Rice,35,114,75
+Mustard,35,40,73
+Rice,35,126,72
+Green gram,33,60,74
+Gram,34,42,69
+Black Gram,34,56,71
+Barley,35,46,71
+Black Gram,35,49,68
+Mustard,35,38,70
+Maize,32,64,67
+Millet,34,27,68
+Barley,35,36,66
+Soybean,35,60,71
+Barley,34,45,73
+Groundnut,32,66,69
+Rice,35,143,72
+Maize,34,79,74
+Soybean,35,71,66
+Wheat,34,62,67
+Field Pea,33,54,71
+Millet,34,28,66
+Rice,34,111,68
+Wheat,32,65,65
+Sunflower,32,149,71
+Maize,33,59,69
+Gram,35,35,70
+Soybean,35,70,65
+Gram,32,35,65
+Sunflower,35,65,68
+Gram,34,36,70
+Gram,33,41,71
+Groundnut,35,51,66
+Maize,34,68,67
+Groundnut,32,67,67
+SugarCane,32,280,69
+Green gram,32,70,67
+SugarCane,33,284,74
+Gram,34,39,68
+Field Pea,33,40,66
+Rap seed,32,44,67
+Maize,34,53,65
+Green gram,32,61,73
+Sorghum,34,55,71
+Field Pea,33,58,66
+Cotton,33,55,69
+Sunflower,34,50,75
+Field Pea,35,52,70
+Green gram,35,77,74
+Rice,34,108,72
+Green gram,35,76,67
+Barley,35,50,74
+Sunflower,35,38,67
+Wheat,32,89,65
+Cotton,33,62,65
+Black Gram,35,53,75
+Rap seed,32,39,65
+Cotton,34,60,68
+Rap seed,32,36,72
+Sorghum,33,53,65
+Sorghum,35,45,67
+Millet,32,33,73
+SugarCane,33,260,69
+Cotton,33,61,66
+Green gram,35,60,70
+Soybean,32,71,67
+Cotton,34,56,69
+Mustard,35,44,74
+Barley,33,38,72
+Mustard,34,44,73
+Gram,32,43,69
+Cotton,35,60,72
+Sorghum,33,51,71
+Groundnut,32,97,72
+Black Gram,35,56,66
+Sorghum,35,54,73
+Millet,33,28,71
+Cotton,34,64,69
+Maize,35,70,71
+Rice,35,119,68
+Sorghum,34,41,70
+Groundnut,32,79,67
+Gram,33,36,67
+Sunflower,34,89,69
+Rice,35,119,73
+Groundnut,32,79,65
+Wheat,35,84,66
+SugarCane,35,299,72
+Barley,33,44,68
+Mustard,33,41,72
+Maize,32,68,73
+Sorghum,32,56,70
+Groundnut,35,80,75
+Cotton,32,60,71
+Barley,33,44,73
+Wheat,35,64,71
+Black Gram,35,50,71
+Mustard,35,44,68
+SugarCane,32,274,74
+Field Pea,33,56,66
+Maize,35,79,75
+Field Pea,35,40,68
+Wheat,35,86,73
+Rice,34,140,75
+SugarCane,34,300,71
+Barley,32,39,69
+Mustard,32,40,65
+Wheat,32,83,75
+Green gram,33,79,67
+Soybean,33,72,72
+Barley,32,39,69
+Barley,35,42,66
+Groundnut,33,69,65
+Rice,32,118,75
+Barley,35,35,75
+Soybean,35,75,66
+SugarCane,35,299,73
+Sorghum,32,54,70
+Maize,35,54,71
+Gram,33,36,72
+Field Pea,35,42,74
+Wheat,33,63,66
+Field Pea,35,57,69
+Green gram,34,73,66
+Maize,33,54,70
+Groundnut,35,93,74
+Rice,32,121,72
+Wheat,35,62,67
+Rap seed,33,37,66
+Field Pea,35,53,66
+Millet,35,35,72
+Field Pea,32,50,65
+Sunflower,35,122,67
+Rap seed,35,35,66
+Rice,34,124,69
+Maize,35,69,73
+Groundnut,34,81,70
+Cotton,35,65,73
+Maize,33,74,71
+Rice,32,112,72
+SugarCane,34,278,67
+Sorghum,34,59,66
+Green gram,34,78,74
+Groundnut,34,54,71
+Rice,34,119,73
+Groundnut,33,60,72
+Barley,32,44,67
+Rice,33,138,74
+Wheat,35,61,66
+Cotton,35,56,67
+Sunflower,32,101,70
+Millet,35,30,66
+Cotton,35,53,75
+Sorghum,35,56,72
+Gram,34,38,72
+Gram,34,37,69
+Sunflower,33,31,65
+Field Pea,34,60,75
+Maize,34,59,71
+Rice,35,118,70
+Millet,35,26,66
+Barley,33,45,73
+Maize,35,57,74
+Soybean,32,65,66
+Field Pea,33,59,66
+Maize,35,62,66
+Black Gram,35,60,66
+Green gram,33,71,71
+Sorghum,34,53,70
+Millet,33,31,67
+Wheat,34,66,74
+Soybean,34,67,72
+Sorghum,33,41,74
+Sorghum,32,59,65
+Soybean,33,73,68
+Rice,35,116,72
+Sunflower,33,147,74
+SugarCane,33,273,69
+Maize,33,73,72
+Rice,34,112,74
+Sorghum,33,52,72
+Soybean,35,72,69
+Black Gram,33,59,73
+Millet,35,33,68
+Gram,33,38,72
+Black Gram,34,42,74
+SugarCane,35,283,72
+Sorghum,34,57,74
+Groundnut,32,61,75
+Sorghum,33,41,69
+Green gram,35,71,73
+Mustard,34,38,70
+Green gram,35,62,70
+Wheat,34,86,72
+Millet,35,26,72
+Groundnut,34,69,69
+Green gram,35,64,73
+Green gram,35,69,66
+Soybean,32,72,68
+Barley,33,46,74
+Rice,35,120,66
+Sunflower,35,89,74
+Groundnut,33,55,66
+Maize,32,74,67
+Field Pea,35,60,73
+Rap seed,33,43,73
+Rice,32,148,67
+Rice,34,131,71
+Sunflower,34,46,73
+Field Pea,35,48,73
+Mustard,32,38,67
+Maize,35,71,73
+Mustard,35,43,68
+Sorghum,35,43,71
+Gram,35,42,68
+Gram,33,42,75
+Barley,32,45,74
+Cotton,33,70,65
+Green gram,35,65,74
+Groundnut,32,82,71
+Gram,35,37,68
+Rice,33,141,68
+SugarCane,34,256,69
+Barley,35,44,69
+Soybean,34,71,71
+Wheat,35,70,70
+Black Gram,35,46,75
+Rap seed,33,45,66
+Field Pea,34,53,75
+Groundnut,35,51,73
+Sunflower,32,148,65
+Wheat,35,65,66
+Sorghum,35,53,70
+Soybean,35,69,73
+Rice,33,108,66
+Sunflower,34,107,71
+Cotton,32,61,73
+Soybean,35,68,75
+Soybean,34,64,69
+Field Pea,33,44,71
+Maize,34,79,70
+Black Gram,35,44,67
+Maize,35,53,67
+Cotton,33,62,66
+Mustard,32,37,65
+Sunflower,33,143,75
+Sunflower,34,45,67
+Soybean,32,67,68
+SugarCane,33,288,75
+Green gram,33,67,75
+Sorghum,35,60,71
+Maize,32,74,65
+Cotton,34,70,67
+Black Gram,32,59,66
+Field Pea,34,50,73
+Maize,35,64,66
+Millet,33,30,73
+Groundnut,34,52,69
+Sorghum,35,45,66
+Wheat,32,67,65
+Mustard,32,39,73
+Groundnut,35,62,66
+Soybean,34,70,69
+SugarCane,32,275,67
+Rap seed,33,45,72
+Sorghum,33,46,70
+Soybean,34,69,75
+Sunflower,33,83,74
+Soybean,33,72,74
+Sorghum,34,49,70
+Field Pea,35,47,75
+Rice,33,140,68
+Field Pea,35,54,74
+Soybean,34,63,74
+Rice,33,118,74
+Cotton,35,57,70
+Sunflower,32,57,74
+Field Pea,33,49,68
+Barley,32,42,67
+Rap seed,34,40,69
+Cotton,33,53,70
+Maize,34,70,69
+Groundnut,34,52,75
+Cotton,32,65,70
+Sunflower,32,49,68
+Gram,33,43,69
+Rice,33,111,73
+Sorghum,33,46,74
+Black Gram,33,50,65
+Rice,32,142,68
+Sorghum,34,45,72
+SugarCane,32,273,74
+Groundnut,34,86,75
+Black Gram,34,58,72
+Black Gram,32,46,74
+Cotton,35,63,73
+Millet,34,35,74
+Groundnut,32,58,67
+Barley,33,39,67
+Black Gram,33,47,74
+SugarCane,33,282,72
+Field Pea,33,41,72
+Green gram,35,74,67
+Barley,32,37,68
+Cotton,34,51,70
+Gram,32,37,74
+Rap seed,33,44,66
+Mustard,35,45,70
+Millet,35,32,74
+SugarCane,33,278,68
+Mustard,34,40,70
+Gram,34,42,75
+Sorghum,32,51,67
+Sorghum,34,51,68
+Rap seed,33,39,73
+Barley,32,44,68
+Millet,34,30,69
+Millet,32,26,69
+Groundnut,32,56,65
+Cotton,34,67,67
+Soybean,34,60,69
+Gram,34,35,75
+Rice,33,101,75
+Millet,33,34,75
+Field Pea,35,58,71
+Rap seed,35,39,70
+Barley,32,43,71
+Groundnut,35,64,72
+Gram,35,42,70
+Black Gram,35,57,71
+Green gram,32,66,69
+Sunflower,35,137,73
+Rice,35,129,71
+Black Gram,34,49,70
+Mustard,34,42,68
+Cotton,32,59,65
+Mustard,32,37,74
+Cotton,32,50,68
+Gram,32,41,74
+Maize,34,68,75
+Wheat,34,76,70
+Cotton,35,65,70
+Rice,35,145,67
+Rice,33,150,66
+Cotton,35,56,69
+Rice,32,137,74
+Millet,33,26,72
+Mustard,33,39,68
+Sorghum,34,41,69
+Maize,32,60,68
+Black Gram,35,49,74
+SugarCane,32,294,65
+Rice,33,144,66
+Gram,35,35,74
+Field Pea,33,46,71
+SugarCane,32,289,67
+Field Pea,32,53,72
+Field Pea,34,48,75
+Rice,34,137,69
+Green gram,34,62,67
+Rap seed,33,44,67
+Soybean,33,75,67
+Barley,34,42,71
+Black Gram,35,40,74
+Barley,33,39,71
+Sunflower,32,89,73
+Soybean,35,71,73
+Green gram,35,73,72
+Cotton,35,53,66
+Green gram,34,80,69
+Field Pea,35,50,66
+Black Gram,32,44,68
+Gram,35,40,68
+Barley,33,41,66
+Rap seed,32,35,73
+Cotton,34,57,74
+Sorghum,32,51,75
+Sorghum,32,56,70
+Wheat,33,73,67
+Soybean,34,60,70
+Sorghum,35,51,68
+Green gram,33,78,66
+Soybean,32,69,65
+Gram,34,35,75
+Rap seed,35,45,70
+Barley,32,41,73
+Rice,33,127,69
+Green gram,33,72,66
+Millet,35,27,71
+Barley,33,43,66
+Gram,35,36,72
+Cotton,32,63,74
+Barley,32,45,67
+Rap seed,32,40,68
+SugarCane,34,273,69
+Millet,34,25,74
+Maize,35,52,72
+Soybean,35,60,67
+Sorghum,32,44,74
+Green gram,33,70,69
+Gram,33,44,75
+Green gram,35,76,68
+Maize,33,53,72
+Millet,32,33,66
+Sorghum,34,59,73
+Rap seed,32,44,65
+Gram,33,45,68
+SugarCane,32,270,68
+Black Gram,35,52,68
+Mustard,35,42,71
+Field Pea,32,43,65
+Sorghum,33,55,72
+Rap seed,32,45,69
+Wheat,32,67,67
+Sorghum,33,42,69
+Green gram,33,77,74
+Millet,33,26,72
+Mustard,32,44,68
+Rap seed,32,37,66
+Black Gram,33,54,69
+Sorghum,33,47,68
+Sorghum,32,43,71
+Sunflower,35,58,74
+Barley,33,47,72
+Barley,35,50,71
+Green gram,35,61,74
+Gram,33,40,72
+SugarCane,35,297,67
+Green gram,32,69,72
+Soybean,33,74,68
+Millet,33,26,68
+Maize,33,77,67
+Cotton,35,52,71
+Black Gram,32,50,68
+Field Pea,32,47,73
+Cotton,32,52,75
+Field Pea,34,47,65
+Mustard,35,39,73
+Sunflower,33,109,66
+Soybean,35,71,70
+SugarCane,32,268,73
+Soybean,34,68,69
+Rice,32,134,68
+Groundnut,34,74,73
+Soybean,32,66,74
+Millet,32,31,69
+Black Gram,33,55,66
+Gram,35,39,68
+Rap seed,32,39,69
+Rice,34,103,69
+SugarCane,32,262,74
+SugarCane,34,287,67
+Wheat,33,76,71
+Mustard,32,37,75
+Groundnut,33,89,68
+Barley,32,43,74
+Barley,33,35,75
+Millet,35,27,73
+Rap seed,33,38,72
+Mustard,35,42,67
+Sunflower,35,36,73
+Millet,35,32,67
+Rap seed,34,39,69
+Sorghum,34,46,69
+Cotton,33,56,66
+Gram,34,38,70
+Soybean,35,61,70
+Soybean,35,70,71
+Mustard,35,43,68
+Gram,32,37,68
+Rice,32,122,70
+Rice,33,124,73
+Rap seed,32,39,75
+Green gram,34,76,65
+Green gram,33,77,71
+Black Gram,33,51,69
+SugarCane,34,294,75
+Green gram,34,73,68
+Field Pea,32,60,70
+Sorghum,34,48,73
+Soybean,32,73,71
+Field Pea,32,54,66
+Rap seed,33,44,66
+Mustard,33,45,74
+SugarCane,33,257,69
+Millet,34,34,74
+Maize,33,55,72
+Groundnut,32,57,66
+Millet,32,26,69
+Sunflower,33,46,67
+Sorghum,33,58,74
+Wheat,33,62,68
+Cotton,35,59,73
+SugarCane,33,283,66
+Black Gram,33,40,68
+SugarCane,35,292,69
+Gram,34,36,74
+Barley,34,40,73
+Field Pea,34,54,71
+Black Gram,35,51,70
+Gram,32,37,74
+Barley,34,42,75
+Soybean,34,74,68
+Cotton,32,63,73
+Soybean,35,71,68
+Gram,33,38,71
+SugarCane,35,285,67
+Sunflower,33,38,68
+Soybean,33,62,66
+Gram,35,36,69
+Wheat,33,80,69
+Green gram,33,79,70
+Rice,32,130,67
+SugarCane,32,298,69
+Cotton,34,63,73
+Maize,33,60,69
+Sunflower,34,89,74
+Soybean,33,64,67
+SugarCane,33,275,72
+Green gram,35,73,66
+Groundnut,32,98,71
+Cotton,34,54,72
+SugarCane,33,295,70
+Gram,35,42,65
+Sorghum,34,41,69
+Rice,33,130,75
+Black Gram,33,44,73
+Millet,32,30,68
+Rap seed,35,44,72
+Rice,35,140,65
+Mustard,33,44,66
+Field Pea,33,42,67
+Cotton,34,53,68
+Field Pea,33,60,74
+Mustard,34,35,67
+SugarCane,34,276,74
+Wheat,32,67,74
+Sunflower,32,59,67
+Wheat,32,69,72
+Rice,33,115,65
+Rap seed,35,44,71
+Gram,35,42,66
+Barley,35,35,69
+SugarCane,34,268,70
+Cotton,32,60,70
+Mustard,33,40,75
+SugarCane,33,296,73
+Gram,35,40,70
+SugarCane,35,261,71
+Mustard,35,41,75
+Gram,33,40,66
+Rap seed,32,36,67
+Groundnut,35,86,70
+Maize,35,79,72
+Cotton,33,69,72
+Green gram,33,64,68
+Soybean,33,64,67
+Black Gram,33,56,67
+Rap seed,32,36,73
+Wheat,35,81,72
+Green gram,35,77,73
+Gram,34,44,71
+Wheat,34,79,65
+Maize,32,55,74
+Green gram,33,78,72
+Sorghum,35,41,72
+Millet,35,34,71
+Gram,35,35,70
+Rap seed,35,44,75
+Mustard,33,43,74
+Green gram,33,72,71
+Groundnut,33,55,74
+SugarCane,34,288,74
+Maize,32,68,69
+Green gram,33,61,74
+Cotton,32,52,65
+SugarCane,33,265,72
+Black Gram,32,50,72
+Groundnut,33,78,69
+Sorghum,32,43,74
+Millet,34,34,65
+Rice,33,133,74
+Soybean,33,74,66
+Barley,34,44,68
+Green gram,32,70,68
+Green gram,33,76,73
+Rice,35,117,70
+Maize,34,64,68
+Black Gram,33,43,66
+Soybean,35,70,73
+Maize,32,52,70
+Black Gram,32,59,68
+Wheat,34,85,69
+Sorghum,35,42,75
+Gram,35,39,71
+Green gram,35,73,71
+Sorghum,32,47,68
+Groundnut,32,79,67
+Cotton,34,70,68
+Maize,32,52,68
+Rice,35,115,74
+Mustard,32,36,65
+Rice,33,128,65
+Mustard,33,40,73
+Maize,32,59,71
+Wheat,33,65,74
+Millet,34,30,73
+Mustard,34,38,71
+Field Pea,35,41,70
+Cotton,34,70,70
+Rice,35,116,71
+Sunflower,33,144,74
+Sunflower,34,36,74
+Cotton,35,53,72
+Groundnut,32,68,74
+Rap seed,35,38,74
+Sorghum,34,50,75
+Barley,35,46,74
+Sorghum,33,58,74
+Maize,33,58,66
+Gram,34,41,70
+Gram,35,40,66
+Rice,34,146,65
+Millet,33,27,71
+Rice,35,117,71
+Sorghum,32,54,70
+Groundnut,35,75,70
+Mustard,35,36,70
+Field Pea,35,56,74
+Rap seed,34,37,69
+Groundnut,35,56,66
+SugarCane,35,258,65
+Cotton,33,65,66
+Rice,34,107,66
+Rap seed,34,35,66
+Maize,35,64,70
+Groundnut,33,99,74
+Soybean,34,73,69
+Black Gram,33,49,73
+Maize,35,63,71
+Gram,32,41,73
+Barley,34,50,66
+Groundnut,34,64,70
+Maize,33,54,71
+Gram,35,36,71
+Gram,32,40,74
+Black Gram,35,60,75
+Sunflower,33,135,71
+Mustard,33,39,73
+Field Pea,32,46,71
+Rap seed,33,42,75
+Groundnut,35,53,69
+Gram,35,39,66
+Black Gram,35,51,69
+Soybean,35,73,73
+Green gram,32,76,65
+Maize,35,50,70
+Millet,33,30,71
+Maize,32,77,68
+Barley,35,46,70
+SugarCane,33,255,66
+Sorghum,35,48,69
+Black Gram,34,46,71
+Green gram,33,68,69
+Gram,32,37,66
+Mustard,32,45,68
+Groundnut,32,60,65
+Maize,35,78,70
+Soybean,32,71,69
+Field Pea,35,43,67
+Cotton,33,53,73
+SugarCane,35,261,71
+Maize,34,51,65
+Maize,35,51,71
+Rap seed,35,37,66
+Cotton,32,54,65
+Sunflower,35,143,70
+Green gram,33,71,75
+Rap seed,35,43,66
+Mustard,35,45,66
+Rap seed,35,43,75
+Cotton,32,56,66
+Groundnut,34,66,69
+Rice,32,133,74
+Rap seed,33,45,74
+Field Pea,35,53,66
+Millet,33,28,73
+Field Pea,32,59,67
+Black Gram,32,53,65
+Gram,35,36,73
+Sorghum,35,48,73
+Mustard,35,41,68
+Barley,35,39,72
+Sorghum,33,49,67
+Soybean,35,74,68
+SugarCane,33,261,66
+Black Gram,34,51,70
+Barley,34,44,75
+Cotton,35,68,68
+Gram,32,35,70
+Rap seed,35,40,67
+Mustard,34,42,68
+Rice,33,136,69
+Gram,32,35,68
+Soybean,32,72,70
+Millet,32,32,70
+Gram,35,42,73
+Barley,35,38,67
+Black Gram,34,55,67
+Rap seed,32,44,67
+Sorghum,33,53,66
+SugarCane,32,251,68
+Maize,35,74,71
+Field Pea,34,45,70
+Sorghum,32,59,73
+Green gram,34,70,69
+Wheat,33,90,69
+Barley,32,42,65
+Mustard,35,45,66
+Soybean,34,61,65
+Soybean,32,75,67
+Green gram,35,71,73
+Green gram,32,78,66
+Mustard,34,38,75
+Black Gram,35,42,71
+Sunflower,32,143,70
+Mustard,34,41,71
+Maize,32,67,73
+Maize,33,76,65
+Wheat,32,84,75
+Barley,32,36,73
+Millet,34,30,65
+Green gram,35,79,74
+Sunflower,33,67,68
+Rap seed,32,40,68
+Wheat,32,68,65
+Black Gram,34,43,68
+Field Pea,35,60,73
+Millet,34,32,72
+Wheat,33,84,65
+Groundnut,33,87,75
+Black Gram,33,41,74
+Barley,33,43,73
+Millet,32,32,67
+Green gram,34,77,69
+Wheat,35,66,75
+Field Pea,34,56,67
+SugarCane,33,289,72
+Mustard,35,38,75
+Maize,35,53,73
+Soybean,35,71,70
+Barley,32,35,74
+Cotton,32,51,72
+Maize,35,50,66
+Millet,35,25,66
+Mustard,32,44,70
+Black Gram,34,41,72
+Black Gram,33,45,68
+Wheat,35,60,71
+Barley,34,48,72
+Gram,35,44,74
+Groundnut,35,77,65
+Mustard,33,35,66
+Mustard,35,37,68
+Sunflower,33,52,72
+Wheat,34,77,73
+SugarCane,35,277,66
+Rice,33,132,69
+Rice,32,125,73
+Millet,32,26,67
+Sorghum,34,51,65
+Groundnut,33,97,74
+Cotton,33,52,74
+Sorghum,32,49,72
+Sunflower,32,108,72
+Gram,32,41,65
+Wheat,33,76,74
+Rice,35,129,75
+Rice,35,118,69
+Cotton,35,70,70
+Green gram,35,72,66
+Barley,34,42,70
+Field Pea,34,57,70
+Rap seed,35,35,68
+Mustard,34,42,74
+Soybean,35,65,71
+Black Gram,32,55,73
+Rap seed,33,35,71
+Barley,34,38,71
+Green gram,34,68,68
+Rap seed,35,36,75
+Maize,35,67,71
+Groundnut,35,93,70
+Sunflower,32,70,68
+Field Pea,33,54,69
+Sorghum,35,55,70
+Rap seed,32,43,70
+Groundnut,34,61,67
+Black Gram,34,52,70
+Green gram,32,68,67
+Barley,35,41,70
+Rap seed,34,43,70
+Mustard,32,39,67
+SugarCane,32,265,65
+Groundnut,35,90,73
+Green gram,35,72,70
+Sorghum,33,45,71
+Groundnut,33,82,68
+SugarCane,35,300,67
+Field Pea,35,52,71
+Rice,35,100,70
+Soybean,33,68,72
+SugarCane,32,256,74
+Cotton,33,50,74
+Millet,35,34,70
+Rice,32,135,68
+Rice,34,126,71
+Wheat,32,86,68
+Cotton,35,65,68
+Gram,34,36,74
+Millet,33,27,72
+Mustard,32,43,71
+Field Pea,32,56,69
+Barley,33,35,74
+Maize,34,61,73
+Maize,35,72,73
+Green gram,35,75,66
+Rice,34,131,70
+Gram,33,36,74
+Barley,32,39,75
+Wheat,35,61,68
+Cotton,33,53,72
+Sorghum,32,56,68
+Wheat,32,77,67
+Millet,32,27,65
+Sunflower,35,134,74
+Soybean,35,71,75
+Gram,33,39,66
+Sunflower,34,114,72
+Millet,33,31,74
+Maize,34,54,66
+Barley,33,36,74
+SugarCane,35,299,73
+SugarCane,32,289,67
+Cotton,34,65,74
+SugarCane,33,276,71
+Maize,34,65,74
+Rice,32,100,68
+Maize,33,54,73
+Rap seed,32,37,73
+Maize,32,61,66
+Black Gram,34,52,69
+Maize,35,69,72
+Wheat,35,81,69
+Gram,35,41,67
+Maize,33,65,66
+Gram,34,45,75
+Groundnut,33,56,74
+Gram,34,39,68
+Gram,33,37,75
+Sorghum,35,55,71
+Black Gram,32,41,73
+Cotton,33,62,71
+Black Gram,35,51,73
+Sunflower,32,94,72
+Sunflower,32,126,69
+Rap seed,34,35,67
+SugarCane,32,274,69
+Rap seed,33,38,68
+Soybean,32,71,65
+Millet,35,27,66
+Rap seed,33,36,72
+Rice,35,128,66
+Rap seed,35,44,66
+Black Gram,33,59,66
+Sunflower,33,123,66
+Field Pea,32,54,67
+Rap seed,34,40,68
+Millet,35,34,73
+Wheat,33,66,74
+Cotton,32,63,67
+SugarCane,35,298,70
+Green gram,34,79,65
+Rice,35,130,66
+Green gram,32,74,70
+Groundnut,34,59,72
+Mustard,34,42,72
+Cotton,32,68,73
+Gram,33,44,74
+Cotton,35,53,71
+Cotton,35,61,73
+Black Gram,32,53,72
+Millet,32,28,71
+Groundnut,33,91,66
+Sunflower,32,63,65
+Black Gram,35,42,66
+Wheat,35,86,69
+Soybean,32,69,74
+Wheat,34,68,71
+Sunflower,33,59,72
+Barley,32,38,73
+Sunflower,32,105,67
+Gram,35,43,67
+Sunflower,32,143,75
+Sorghum,35,46,73
+Mustard,32,41,67
+Sunflower,33,142,71
+Black Gram,32,49,74
+Sorghum,35,53,70
+Sorghum,35,56,70
+Sorghum,32,42,67
+Soybean,35,60,68
+Green gram,33,75,66
+Gram,32,35,67
+Rice,32,132,65
+SugarCane,35,259,68
+Field Pea,33,53,74
+Soybean,32,63,69
+Millet,34,29,69
+Field Pea,35,52,66
+Millet,35,31,67
+Rice,33,116,74
+Black Gram,34,50,66
+Sorghum,33,46,74
+Rap seed,35,36,69
+Mustard,34,43,65
+Rap seed,33,43,73
+Green gram,34,60,70
+Sorghum,33,47,69
+Black Gram,35,50,73
+Field Pea,33,58,75
+Rice,34,123,70
+Rap seed,34,36,65
+Barley,35,38,72
+Mustard,33,43,67
+Soybean,35,63,74
+Field Pea,35,55,71
+Rice,32,122,67
+Sorghum,35,54,73
+Gram,35,42,72
+Millet,34,26,66
+Barley,33,40,69
+Maize,33,80,65
+Green gram,35,69,70
+Barley,34,50,69
+Field Pea,33,49,70
+Mustard,35,35,73
+Mustard,32,37,67
+Soybean,35,69,74
+Maize,35,75,73
+Cotton,32,58,67
+Groundnut,33,66,73
+Maize,33,73,73
+Cotton,32,55,70
+Millet,32,25,68
+Rap seed,33,37,71
+Gram,34,44,65
+Rice,32,114,75
+Green gram,33,60,72
+Gram,33,40,66
+Rap seed,34,44,66
+Rice,32,105,75
+Barley,32,40,67
+Green gram,32,74,67
+Field Pea,35,44,68
+Green gram,35,80,67
+Soybean,33,63,73
+Barley,33,39,75
+Mustard,32,40,67
+Gram,35,35,69
+SugarCane,32,266,66
+Green gram,33,61,69
+Mustard,35,43,71
+Rice,33,123,75
+Soybean,33,74,66
+Sunflower,33,64,74
+Mustard,35,43,67
+Black Gram,35,59,70
+Rap seed,35,44,70
+Cotton,35,68,69
+Sunflower,33,115,74
+Sorghum,32,45,66
+Gram,32,40,74
+Wheat,33,62,71
+Barley,34,36,65
+Gram,35,45,72
+Cotton,35,51,71
+Sorghum,34,53,73
+Wheat,32,85,74
+Black Gram,33,56,72
+Barley,33,39,75
+Sunflower,33,86,69
+Maize,33,63,67
+Sorghum,33,53,75
+Barley,32,42,70
+Soybean,34,72,67
+Green gram,35,62,70
+SugarCane,34,251,73
+Soybean,35,67,74
+Mustard,34,45,69
+Cotton,33,70,72
+Millet,34,35,68
+Wheat,35,61,68
+Groundnut,34,71,65
+Rice,34,114,75
+Maize,35,71,67
+Millet,32,34,75
+Rice,35,131,68
+Rap seed,35,43,68
+Groundnut,35,54,67
+Cotton,33,55,66
+Field Pea,33,48,74
+Maize,32,79,67
+Cotton,34,57,73
+Rap seed,32,36,65
+Gram,35,36,73
+Soybean,32,71,68
+Sunflower,35,66,71
+Green gram,34,65,75
+Field Pea,33,41,75
+Soybean,35,60,66
+Sunflower,35,103,66
+SugarCane,32,272,73
+Green gram,33,75,72
+Millet,34,35,70
+Black Gram,35,41,71
+Green gram,35,80,68
+Rap seed,34,43,75
+Sorghum,32,51,67
+Mustard,34,40,69
+Rap seed,33,39,73
+Wheat,33,90,66
+Sorghum,33,47,68
+SugarCane,34,265,73
+Maize,35,61,70
+Rap seed,32,42,73
+Rice,32,120,67
+Field Pea,35,49,68
+Sorghum,34,54,69
+Cotton,35,50,74
+Mustard,35,37,72
+Gram,33,37,68
+Soybean,33,73,69
+Sorghum,32,41,68
+Gram,33,35,66
+SugarCane,34,276,66
+Millet,33,31,67
+Millet,34,27,67
+Sunflower,33,80,67
+Cotton,33,59,71
+Wheat,32,80,67
+Maize,32,60,67
+Gram,33,36,74
+Cotton,35,62,73
+Sunflower,35,89,68
+Sunflower,34,109,67
+Gram,32,36,73
+Mustard,35,43,74
+Gram,33,35,74
+Cotton,34,57,71
+Maize,34,77,71
+Wheat,33,68,73
+Mustard,32,42,73
+Sunflower,34,105,66
+Field Pea,34,57,68
+SugarCane,32,251,69
+SugarCane,32,259,66
+Sunflower,32,43,74
+SugarCane,33,279,65
+Cotton,33,62,73
+Field Pea,35,48,68
+SugarCane,33,267,74
+Cotton,32,66,67
+Black Gram,35,43,72
+Green gram,34,75,75
+Barley,32,41,69
+SugarCane,35,300,67
+Mustard,32,40,69
+Gram,35,36,66
+Barley,32,36,71
+Rice,32,118,65
+Wheat,32,85,69
+Gram,35,42,71
+Sunflower,35,124,71
+Cotton,32,70,72
+Sunflower,35,145,72
+Barley,35,38,71
+Sorghum,34,59,74
+Black Gram,33,46,71
+Soybean,34,74,66
+Black Gram,35,43,68
+Sunflower,32,79,68
+Wheat,32,78,70
+Millet,32,25,67
+Field Pea,34,57,66
+Maize,32,56,75
+Barley,35,46,68
+SugarCane,35,262,66
+Groundnut,35,94,72
+Mustard,33,39,66
+Black Gram,34,47,65
+Groundnut,34,63,68
+Mustard,34,45,75
+Sunflower,32,95,74
+Wheat,34,80,73
+Black Gram,35,54,69
+Maize,34,71,69
+Rice,34,103,74
+Sunflower,33,36,66
+Groundnut,33,72,69
+Sorghum,32,58,65
+Green gram,34,75,70
+Groundnut,32,57,73
+Maize,35,59,68
+Cotton,32,57,73
+Rap seed,35,36,67
+Rap seed,33,43,67
+Barley,32,47,74
+Sunflower,32,132,65
+Sorghum,32,46,74
+SugarCane,35,265,73
+Groundnut,33,76,69
+Barley,33,49,72
+Black Gram,33,42,74
+Field Pea,33,48,65
+Gram,32,45,70
+SugarCane,35,278,69
+Rice,32,121,74
+Mustard,34,44,75
+SugarCane,35,264,73
+Maize,34,72,70
+Cotton,33,58,68
+Wheat,32,75,65
+Groundnut,34,50,68
+Field Pea,33,51,68
+Mustard,35,35,67
+Mustard,35,42,70
+Maize,32,67,68
+Cotton,34,67,66
+Field Pea,34,47,69
+Sunflower,33,53,69
+Sorghum,35,53,73
+Sorghum,33,56,69
+Sunflower,32,34,68
+Sunflower,32,135,65
+Barley,32,41,66
+Soybean,32,63,69
+Soybean,35,66,75
+Mustard,35,41,73
+Wheat,33,73,66
+SugarCane,32,253,65
+Green gram,33,70,71
+Rap seed,35,40,66
+Wheat,35,70,71
+Maize,35,67,67
+Maize,35,67,68
+Groundnut,34,95,74
+Field Pea,35,51,67
+Sorghum,35,51,65
+Wheat,35,77,74
+Maize,34,80,65
+Soybean,32,65,74
+Soybean,34,66,70
+Groundnut,35,86,71
+Wheat,32,90,72
+Soybean,33,72,71
+Sunflower,32,137,73
+Black Gram,32,56,69
+Barley,34,44,67
+Rice,33,121,66
+Mustard,32,36,65
+Rap seed,32,41,73
+Rap seed,32,37,71
+Maize,33,72,72
+Black Gram,34,42,69
+Field Pea,32,54,73
+Wheat,35,84,74
+Barley,35,45,69
+Millet,35,33,71
+SugarCane,33,296,72
+Field Pea,32,57,69
+Mustard,34,40,75
+Maize,33,55,68
+Black Gram,33,42,69
+Rice,34,103,74
+Soybean,35,75,69
+Rap seed,35,42,68
+Wheat,32,72,68
+Mustard,35,38,75
+Soybean,35,72,74
+Wheat,34,62,70
+Rap seed,35,35,70
+Rap seed,32,40,68
+Millet,32,32,65
+Wheat,32,89,69
+Millet,32,27,71
+Wheat,33,67,72
+Mustard,34,41,72
+Groundnut,32,79,70
+Black Gram,32,40,67
+Field Pea,32,51,65
+Maize,34,52,73
+Maize,35,79,72
+Soybean,32,71,66
+Millet,35,32,72
+Sorghum,34,58,67
+Wheat,35,62,75
+Rap seed,35,44,66
+Groundnut,33,50,65
+Barley,35,36,72
+Field Pea,32,54,69
+Millet,35,25,70
+Rice,35,120,69
+Maize,32,58,68
+Rap seed,35,41,66
+Field Pea,33,40,67
+Soybean,33,68,72
+Millet,35,33,66
+Black Gram,32,59,72
+SugarCane,35,289,66
+Wheat,32,87,70
+Sunflower,33,118,75
+Barley,35,36,70
+Rap seed,33,39,65
+Wheat,32,66,66
+Mustard,32,36,65
+Soybean,32,60,70
+Rap seed,33,43,69
+Millet,34,26,71
+Wheat,34,87,69
+Rice,32,124,65
+Maize,35,50,66
+Green gram,35,69,74
+Sorghum,32,48,65
+Soybean,35,67,74
+Green gram,33,62,65
+Groundnut,34,51,66
+Groundnut,32,99,68
+Rap seed,35,38,68
+Wheat,34,62,70
+Mustard,34,35,70
+Rap seed,34,42,73
+Soybean,32,73,67
+Barley,34,37,69
+Millet,32,33,67
+Sorghum,32,56,73
+Soybean,33,62,65
+Gram,35,35,70
+Maize,32,50,66
+Wheat,35,89,70
+Groundnut,33,72,73
+Sunflower,34,120,75
+Rap seed,32,43,67
+Cotton,32,56,74
+Mustard,33,43,67
+Millet,32,30,70
+Millet,34,25,71
+Gram,32,42,67
+Field Pea,33,40,68
+Groundnut,35,73,73
+Soybean,35,73,68
+Cotton,33,51,70
+Maize,35,79,66
+Green gram,34,65,68
+Soybean,35,74,71
+Barley,33,42,73
+Barley,32,47,73
+Sunflower,35,96,67
+Rap seed,32,39,70
+Rap seed,34,40,73
+Barley,32,43,65
+Sorghum,32,59,65
+Green gram,35,66,72
+Cotton,35,58,67
+Rice,35,140,74
+Barley,35,41,74
+Maize,33,56,69
+Rap seed,35,43,73
+Cotton,32,53,69
+Sunflower,33,136,73
+Gram,32,36,71
+Field Pea,33,56,66
+Soybean,35,68,71
+Groundnut,33,62,68
+Rice,33,115,72
+Sunflower,33,84,69
+Sunflower,33,67,72
+Green gram,32,61,72
+Cotton,35,53,75
+Rice,35,135,66
+Sorghum,32,51,71
+Rice,33,138,67
+Cotton,32,53,66
+Black Gram,32,40,73
+Millet,35,30,74
+Mustard,32,40,69
+Mustard,33,44,75
+Groundnut,33,54,74
+Mustard,35,38,70
+Maize,35,59,68
+Sunflower,33,121,73
+Field Pea,34,46,66
+Groundnut,35,86,71
+Gram,35,45,72
+Gram,32,36,67
+Mustard,34,35,74
+Soybean,35,70,70
+Rap seed,33,37,70
+SugarCane,35,255,70
+Field Pea,32,60,66
+Gram,35,38,66
+Green gram,32,79,69
+Sorghum,33,57,69
+Cotton,35,53,73
+Black Gram,35,58,66
+Sorghum,35,55,71
+Mustard,33,36,74
+Soybean,33,73,69
+Field Pea,35,49,70
+Millet,35,31,68
+Gram,33,40,68
+SugarCane,34,269,71
+Sorghum,32,55,67
+Mustard,35,43,66
+Wheat,34,64,73
+Millet,33,26,67
+Sunflower,32,115,75
+Millet,35,35,66
+Field Pea,32,59,70
+Sorghum,34,55,75
+Black Gram,34,45,66
+Wheat,34,70,74
+Rap seed,35,37,69
+Maize,32,54,72
+Rap seed,34,37,69
+Rice,34,105,69
+Green gram,34,60,73
+Groundnut,35,99,70
+Sunflower,34,32,69
+Sunflower,32,51,67
+Sorghum,32,47,68
+Rice,33,111,72
+Maize,34,65,66
+Rice,35,130,70
+Green gram,32,68,68
+Green gram,33,67,69
+Sorghum,35,56,70
+Sunflower,32,136,67
+Mustard,35,35,70
+Maize,33,56,74
+Gram,34,36,70
+Cotton,35,68,74
+Maize,34,69,69
+Maize,34,66,71
+Barley,32,39,68
+Rap seed,35,44,72
+Groundnut,35,94,70
+Rice,33,148,73
+Wheat,35,71,67
+Black Gram,33,51,70
+Cotton,35,52,72
+Green gram,35,68,75
+Sunflower,34,114,70
+Black Gram,35,43,68
+SugarCane,32,265,75
+Black Gram,33,47,72
+SugarCane,32,286,72
+Mustard,34,44,69
+Millet,32,29,73
+SugarCane,35,294,74
+Sunflower,34,83,73
+Wheat,35,73,73
+Rice,33,134,70
+Black Gram,32,55,68
+Maize,35,59,66
+Green gram,35,74,71
+Rice,33,142,68
+Soybean,32,64,68
+Gram,34,41,66
+Rice,32,109,66
+Sunflower,33,146,71
+Sorghum,34,58,68
+Cotton,35,51,73
+Field Pea,35,53,70
+Mustard,32,44,68
+Rap seed,33,41,74
+Cotton,33,64,71
+Mustard,33,45,66
+Black Gram,35,49,75
+Sunflower,34,58,68
+Sorghum,32,51,68
+Rice,34,142,67
+Sunflower,34,57,68
+Wheat,35,63,72
+Sunflower,33,130,66
+SugarCane,35,281,70
+Soybean,33,68,71
+Mustard,33,41,73
+Barley,33,47,69
+Black Gram,35,57,70
+Cotton,35,59,70
+Sunflower,35,65,69
+Field Pea,35,52,69
+Field Pea,34,44,68
+Barley,33,48,72
+Field Pea,35,60,70
+Cotton,32,58,67
+Mustard,33,38,66
+Wheat,35,88,75
+Groundnut,35,88,68
+Rice,34,136,68
+SugarCane,34,279,68
+Soybean,34,62,74
+Mustard,35,36,74
+Sunflower,34,105,68
+Sunflower,33,60,69
+SugarCane,32,266,72
+Field Pea,34,55,73
+Groundnut,32,81,65
+Maize,32,53,70
+Gram,34,39,65
+Sunflower,33,132,67
+Soybean,33,60,66
+Mustard,32,36,74
+Sunflower,35,52,71
+Green gram,32,77,68
+Groundnut,34,51,73
+Mustard,34,45,73
+Green gram,35,68,69
+Wheat,34,68,70
+Black Gram,35,43,73
+Black Gram,34,49,74
+Mustard,33,41,68
+Black Gram,34,58,73
+Rap seed,33,40,69
+Rice,32,128,65
+Sunflower,32,65,69
+Millet,35,31,68
+Barley,35,37,72
+Maize,33,59,68
+Green gram,35,73,71
+Groundnut,32,78,68
+SugarCane,32,283,74
+Gram,32,44,66
+Gram,33,38,74
+Green gram,34,73,70
+Rice,33,145,67
+Cotton,35,53,74
+Millet,33,29,69
+Gram,33,36,70
+Maize,35,68,69
+Cotton,33,52,74
+Black Gram,35,54,71
+Mustard,32,39,69
+Sorghum,35,57,75
+Rap seed,34,36,70
+Groundnut,32,63,73
+Green gram,35,60,69
+Sunflower,35,36,68
+Wheat,33,77,74
+Green gram,32,73,67
+Groundnut,35,99,69
+Barley,34,50,74
+Gram,33,35,67
+Barley,35,40,66
+Sorghum,35,40,73
+Barley,32,49,65
+Field Pea,32,57,67
+Rice,33,150,73
+Soybean,32,68,73
+Millet,33,25,68
+Rice,32,105,66
+Groundnut,32,85,73
+Black Gram,35,56,69
+Field Pea,35,50,68
+Mustard,33,38,72
+Field Pea,34,44,69
+SugarCane,32,271,75
+Soybean,34,64,67
+Rice,35,110,67
+Sorghum,32,41,73
+Rap seed,35,39,73
+Barley,32,41,65
+Gram,32,40,67
+Green gram,34,71,73
+Black Gram,33,49,74
+Green gram,34,69,73
+Groundnut,35,81,70
+Black Gram,32,49,69
+Black Gram,35,52,66
+Mustard,33,45,66
+Millet,32,27,67
+Soybean,33,69,74
+Barley,32,39,68
+Millet,33,29,65
+Millet,35,28,75
+Green gram,32,60,73
+SugarCane,35,276,66
+SugarCane,34,290,66
+Sunflower,32,45,75
+Black Gram,34,40,74
+Mustard,34,45,67
+Sunflower,34,86,72
+Gram,35,40,69
+Rice,35,132,70
+Green gram,32,71,65
+Rap seed,34,38,72
+Cotton,32,60,74
+Groundnut,35,66,66
+Millet,35,31,70
+SugarCane,33,296,75
+Sunflower,33,52,75
+Millet,32,28,65
+SugarCane,32,266,68
+Cotton,34,58,75
+Sunflower,33,100,73
+Cotton,33,50,73
+Rap seed,35,42,71
+Maize,35,71,68
+Soybean,32,75,68
+Cotton,35,57,74
+Millet,33,29,74
+Millet,33,30,73
+Groundnut,33,92,69
+Groundnut,35,90,74
+Wheat,33,81,73
+Barley,35,38,73
+Millet,33,28,74
+Wheat,34,83,68
+Rice,32,129,74
+SugarCane,32,297,67
+Green gram,32,73,67
+Black Gram,32,41,74
+Sorghum,33,40,73
+Millet,32,30,68
+Sunflower,32,143,67
+Sorghum,32,52,73
+Black Gram,32,57,67
+Maize,33,55,70
+Mustard,33,42,65
+Soybean,33,63,65
+SugarCane,32,271,73
+Millet,33,25,70
+Barley,34,42,71
+Groundnut,32,56,65
+Green gram,35,61,66
+Maize,35,51,68
+SugarCane,35,292,72
+Wheat,34,71,73
+Gram,35,39,71
+SugarCane,32,273,73
+Soybean,32,62,65
+Rap seed,33,42,75
+Cotton,33,55,75
+Field Pea,35,54,70
+Gram,35,36,75
+Field Pea,32,43,68
+Field Pea,35,51,75
+Cotton,32,69,69
+Sorghum,32,53,72
+Green gram,35,78,69
+Black Gram,32,58,70
+Mustard,35,39,73
+Sunflower,34,121,66
+Field Pea,32,50,68
+Groundnut,33,96,66
+Millet,35,35,67
+Rice,34,109,74
+Millet,35,29,71
+Wheat,32,61,65
+Field Pea,32,54,65
+Rice,34,148,74
+SugarCane,34,287,73
+Rap seed,32,37,68
+Sunflower,33,114,66
+Millet,34,28,66
+Maize,34,76,70
+Black Gram,33,48,72
+Sunflower,35,68,66
+Field Pea,34,51,70
+Maize,32,74,68
+Barley,35,42,68
+Green gram,33,71,69
+Soybean,35,62,72
+Cotton,35,70,71
+Cotton,32,59,67
+Millet,35,34,66
+Sunflower,34,36,73
+Field Pea,33,41,67
+Rap seed,33,45,68
+Green gram,34,71,74
+SugarCane,34,290,69
+SugarCane,35,250,68
+Wheat,33,85,73
+Gram,33,45,72
+Sunflower,34,138,73
+Sunflower,34,138,75
+SugarCane,33,290,75
+Green gram,34,77,67
+SugarCane,35,265,71
+Wheat,33,90,73
+Wheat,34,82,70
+Rice,34,149,68
+SugarCane,35,296,74
+Groundnut,35,97,66
+Millet,34,27,70
+Green gram,32,66,74
+Rap seed,32,45,72
